@@ -1,30 +1,47 @@
+import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
+
 import 'package:english_words/english_words.dart';
 
+import 'package:google_sign_in/google_sign_in.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+
+
+final FirebaseAuth _auth = FirebaseAuth.instance;
+
+GoogleSignIn _googleSignIn = new GoogleSignIn(
+  scopes: [
+    'email',
+    'https://www.googleapis.com/auth/contacts.readonly',
+  ],
+);
+
+
 void main() {
+  print("Running App");
   return runApp(new MyApp());
 }
 
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return new MaterialApp(
+    return (new MaterialApp(
       title: 'Startup Name Generator',
       home: new RandomWords(),
       theme: new ThemeData(
-          primaryColor: Colors.white
+          primaryColor: Colors.redAccent
       ),
+
+    )
     );
   }
 }
 
 class RandomWords extends StatefulWidget{
-
   @override
   createState() => new RandomWordsState();
-
 }
 
 class RandomWordsState extends State<RandomWords>{
@@ -36,15 +53,22 @@ class RandomWordsState extends State<RandomWords>{
   @override
   Widget build(BuildContext context){
     return new Scaffold(
-        appBar: new AppBar(
+      appBar: new AppBar(
 
-          title: new Text('Startup Name Generator',textAlign: TextAlign.center,),
-          centerTitle: true,
-          actions: <Widget>[
-            new IconButton(icon: new Icon(Icons.list), onPressed: _pushSaved)
-          ],
-        ),
-        body: _buildSuggestions()
+        title: new Text('Random Name Generator', textAlign: TextAlign.center,),
+        centerTitle: true,
+        actions: <Widget>[
+          new IconButton(icon: new Icon(Icons.list), onPressed: _pushSaved)
+        ],
+      ),
+      body: _buildSuggestions(),
+      floatingActionButton: new FloatingActionButton(
+        backgroundColor: Colors.redAccent,
+        onPressed: () {
+          _handleSignIn();
+        },
+        child: new Icon(Icons.add),
+      ),
     );
   }
 
@@ -63,6 +87,7 @@ class RandomWordsState extends State<RandomWords>{
       onTap: (){
         setState((){
           if(alreadySaved){
+            print("Hello");
             _saved.remove(pair);
           } else {
             _saved.add(pair);
@@ -92,20 +117,23 @@ class RandomWordsState extends State<RandomWords>{
             builder: (context) {
               final tiles = _saved.map(
                     (pair) {
-                  return new SizedBox(
-                    height: 64.0,
-                    child: new Card(
-                      color: Colors.blueAccent,
-                      child: new Center(
-                        child: new Text(
-                            pair.asPascalCase,
-                            style: new TextStyle(
-                                color: Colors.black,
-                                fontStyle: FontStyle.italic
-                            )
+                  return new GestureDetector(onTap:
+                      () {},
+                      child: new SizedBox(
+                        height: 64.0,
+                        child: new Card(
+                          color: Colors.blueAccent,
+                          child: new Center(
+                            child: new ListTile(
+                              trailing: new Icon(Icons.map),
+                              onTap: () {},
+                              title: new Text(
+                                  pair.asPascalCase
+                              ),
+                            ),
+                          ),
                         ),
-                      ),
-                    ),
+                      )
                   );
                 },
               );
@@ -115,7 +143,7 @@ class RandomWordsState extends State<RandomWords>{
               ).toList();
               return new Scaffold(
                 appBar: new AppBar(
-                  title: new Text('Saved Suggestions'),
+                  title: new Text('Saved Combinations'),
                   centerTitle: true,
                 ),
                 body: new ListView(children: divided,),
@@ -124,12 +152,10 @@ class RandomWordsState extends State<RandomWords>{
         )
     );
   }
+
 }
 
-/// Displays its integer item as 'item N' on a Card whose color is based on
-/// the item's value. The text is displayed in bright green if selected is true.
-/// This widget's height is based on the animation parameter, it varies
-/// from 0 to 128 as the animation varies from 0.0 to 1.0.
+
 class CardItem extends StatelessWidget {
   const CardItem({
     Key key,
@@ -154,8 +180,9 @@ class CardItem extends StatelessWidget {
         .of(context)
         .textTheme
         .display1;
-    if (selected)
+    if (selected) {
       textStyle = textStyle.copyWith(color: Colors.lightGreenAccent[400]);
+    }
     return new Padding(
       padding: const EdgeInsets.all(2.0),
       child: new SizeTransition(
@@ -163,15 +190,16 @@ class CardItem extends StatelessWidget {
         sizeFactor: animation,
         child: new GestureDetector(
           behavior: HitTestBehavior.opaque,
-          onTap: onTap,
+          onTap: () {
+            print("Tapped");
+          },
           child: new SizedBox(
+
             height: 128.0,
-            child: new Card(
-              color: Colors.primaries[item % Colors.primaries.length],
-              child: new Center(
-                child: new Text('Item $item', style: textStyle),
-              ),
+            child: new ListTile(
+              trailing: new Icon(Icons.map),
             ),
+
           ),
         ),
       ),
@@ -179,3 +207,13 @@ class CardItem extends StatelessWidget {
   }
 }
 
+Future<FirebaseUser> _handleSignIn() async {
+  GoogleSignInAccount googleUser = await _googleSignIn.signIn();
+  GoogleSignInAuthentication googleAuth = await googleUser.authentication;
+  FirebaseUser user = await _auth.signInWithGoogle(
+    accessToken: googleAuth.accessToken,
+    idToken: googleAuth.idToken,
+  );
+  print("signed in " + user.displayName);
+  return user;
+}
