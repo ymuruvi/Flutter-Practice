@@ -12,38 +12,41 @@ class MyApp extends StatelessWidget {
     return new MaterialApp(
       title: 'Startup Name Generator',
       home: new RandomWords(),
+      theme: new ThemeData(
+        primaryColor: Colors.white
+      ),
     );
   }
 }
 
 class RandomWords extends StatefulWidget{
+
   @override
   createState() => new RandomWordsState();
+
 }
 
 class RandomWordsState extends State<RandomWords>{
 
   final _suggestions = <WordPair>[];
-
   final _saved = new Set<WordPair>();
-
   final _biggerFont = const TextStyle(fontSize: 18.0);
 
+  @override
+  Widget build(BuildContext context){
+    return new Scaffold(
+        appBar: new AppBar(
 
-  Widget _buildSuggestions(){
-    return new ListView.builder(
-      padding: const EdgeInsets.all(16.0),
-      itemBuilder: (context, i){
-        if(i.isOdd) return new Divider();
-        final index = i ~/2;
-        if (index >= _suggestions.length){
-          _suggestions.addAll(generateWordPairs().take(10));
-        }
-        return _buildRow(_suggestions[index]);
-      },
+          title: new Text('Startup Name Generator',textAlign: TextAlign.center,),
+          centerTitle: true,
+          actions: <Widget>[
+            new IconButton(icon: new Icon(Icons.list), onPressed: _pushSaved)
+          ],
+        ),
+        body: _buildSuggestions()
     );
   }
-
+  
   Widget _buildRow(WordPair pair){
     final alreadySaved = _saved.contains(pair);
 
@@ -68,15 +71,56 @@ class RandomWordsState extends State<RandomWords>{
     );
   }
 
-  @override
-  Widget build(BuildContext context){
-    return new Scaffold(
-      appBar: new AppBar(
-        title: new Text('Startup Name Generator'),
-      ),
-      body: _buildSuggestions()
+  Widget _buildSuggestions(){
+    return new ListView.builder(
+      padding: const EdgeInsets.all(16.0),
+      itemBuilder: (context, i){
+        if(i.isOdd) return new Divider();
+        final index = i ~/2;
+        if (index >= _suggestions.length){
+          _suggestions.addAll(generateWordPairs().take(10));
+        }
+        return _buildRow(_suggestions[index]);
+      },
     );
   }
+
+  void _pushSaved() {
+    Navigator.of(context).push(
+      new MaterialPageRoute(
+        builder: (context) {
+          final tiles = _saved.map(
+              (pair) {
+                return new ListTile(
+                  title: new Text(
+                    pair.asPascalCase,
+                    style: _biggerFont,
+                  ),
+                  onTap: (){
+                    print("Tapped: " + pair.asPascalCase);
+                  },
+                  onLongPress: (){
+                    print("Long Pressed: " + pair.asPascalCase);
+                  },
+                );
+              },
+          );
+          final divided = ListTile.divideTiles(
+            context: context,
+            tiles: tiles
+          ).toList();
+          return new Scaffold(
+            appBar: new AppBar(
+              title: new Text('Saved Suggestions'),
+              centerTitle: true,
+            ),
+            body: new ListView(children: divided,),
+          );
+        }
+      )
+    );
+  }
+
 }
 
 
