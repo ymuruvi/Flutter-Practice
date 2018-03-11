@@ -1,0 +1,3409 @@
+total 104
+drwxr-xr-x  19 nano  staff   608 Mar 10 13:35 .
+drwxr-xr-x   8 nano  staff   256 Mar 10 11:29 ..
+-rw-r--r--   1 nano  staff   166 Mar 10 13:34 .flutter-plugins
+-rw-r--r--   1 nano  staff   107 Mar 10 11:29 .gitignore
+drwxr-xr-x   8 nano  staff   256 Mar 10 13:34 .idea
+-rw-r--r--   1 nano  staff   292 Mar 10 11:29 .metadata
+-rw-r--r--   1 nano  staff  5256 Mar 10 13:32 .packages
+-rw-r--r--   1 nano  staff   170 Mar 10 11:29 README.md
+drwxr-xr-x  10 nano  staff   320 Mar 10 11:29 android
+-rw-r--r--   1 nano  staff   590 Mar 10 11:29 android.iml
+drwxr-xr-x   9 nano  staff   288 Mar 10 13:34 build
+drwxr-xr-x  13 nano  staff   416 Mar 10 12:14 ios
+-rw-r--r--   1 nano  staff     0 Mar 10 13:35 kundapura.txt
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:39 lib
+-rw-r--r--   1 nano  staff  9567 Mar 10 13:31 pubspec.lock
+-rw-r--r--   1 nano  staff  1965 Mar 10 11:29 pubspec.yaml
+-rw-r--r--   1 nano  staff   630 Mar 10 11:29 startup_namer.iml
+-rw-r--r--   1 nano  staff  1422 Mar 10 11:29 startup_namer_android.iml
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:30 test
+
+./.idea:
+total 72
+drwxr-xr-x   8 nano  staff    256 Mar 10 13:34 .
+drwxr-xr-x  19 nano  staff    608 Mar 10 13:35 ..
+drwxr-xr-x   2 nano  staff     64 Mar 10 11:33 inspectionProfiles
+drwxr-xr-x   5 nano  staff    160 Mar 10 11:33 libraries
+-rw-r--r--   1 nano  staff    278 Mar 10 11:33 modules.xml
+-rw-r--r--   1 nano  staff    669 Mar 10 11:33 startup_namer.iml
+-rw-r--r--   1 nano  staff    183 Mar 10 11:42 vcs.xml
+-rw-r--r--   1 nano  staff  24384 Mar 10 13:34 workspace.xml
+
+./.idea/inspectionProfiles:
+total 0
+drwxr-xr-x  2 nano  staff   64 Mar 10 11:33 .
+drwxr-xr-x  8 nano  staff  256 Mar 10 13:34 ..
+
+./.idea/libraries:
+total 56
+drwxr-xr-x  5 nano  staff    160 Mar 10 11:33 .
+drwxr-xr-x  8 nano  staff    256 Mar 10 13:34 ..
+-rw-r--r--  1 nano  staff  19635 Mar 10 11:33 Dart_Packages.xml
+-rw-r--r--  1 nano  staff   2010 Mar 10 11:33 Dart_SDK.xml
+-rw-r--r--  1 nano  staff    377 Mar 10 11:33 Flutter_Plugins.xml
+
+./android:
+total 56
+drwxr-xr-x  10 nano  staff   320 Mar 10 11:29 .
+drwxr-xr-x  19 nano  staff   608 Mar 10 13:35 ..
+-rw-r--r--   1 nano  staff   146 Mar 10 11:29 .gitignore
+drwxr-xr-x   5 nano  staff   160 Mar 10 11:29 app
+-rw-r--r--   1 nano  staff   557 Mar 10 11:29 build.gradle
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:29 gradle
+-rw-r--r--   1 nano  staff    30 Mar 10 11:29 gradle.properties
+-rw-r--r--   1 nano  staff  4971 Mar 10 11:29 gradlew
+-rw-r--r--   1 nano  staff  2404 Mar 10 11:29 gradlew.bat
+-rw-r--r--   1 nano  staff   499 Mar 10 11:29 settings.gradle
+
+./android/app:
+total 16
+drwxr-xr-x   5 nano  staff   160 Mar 10 11:29 .
+drwxr-xr-x  10 nano  staff   320 Mar 10 11:29 ..
+-rw-r--r--   1 nano  staff  1710 Mar 10 11:29 build.gradle
+-rw-r--r--   1 nano  staff  1527 Mar 10 11:29 google-services.json
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:29 src
+
+./android/app/src:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:29 .
+drwxr-xr-x  5 nano  staff  160 Mar 10 11:29 ..
+drwxr-xr-x  5 nano  staff  160 Mar 10 11:29 main
+
+./android/app/src/main:
+total 8
+drwxr-xr-x  5 nano  staff   160 Mar 10 11:29 .
+drwxr-xr-x  3 nano  staff    96 Mar 10 11:29 ..
+-rw-r--r--  1 nano  staff  2013 Mar 10 11:29 AndroidManifest.xml
+drwxr-xr-x  4 nano  staff   128 Mar 10 11:33 java
+drwxr-xr-x  9 nano  staff   288 Mar 10 11:29 res
+
+./android/app/src/main/java:
+total 0
+drwxr-xr-x  4 nano  staff  128 Mar 10 11:33 .
+drwxr-xr-x  5 nano  staff  160 Mar 10 11:29 ..
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:29 com
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:33 io
+
+./android/app/src/main/java/com:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:29 .
+drwxr-xr-x  4 nano  staff  128 Mar 10 11:33 ..
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:29 nanoisme
+
+./android/app/src/main/java/com/nanoisme:
+total 0
+drwxr-xr-x  3 nano  staff  96 Mar 10 11:29 .
+drwxr-xr-x  3 nano  staff  96 Mar 10 11:29 ..
+drwxr-xr-x  3 nano  staff  96 Mar 10 11:29 startupnamer
+
+./android/app/src/main/java/com/nanoisme/startupnamer:
+total 8
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:29 .
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:29 ..
+-rw-r--r--  1 nano  staff  385 Mar 10 11:29 MainActivity.java
+
+./android/app/src/main/java/io:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:33 .
+drwxr-xr-x  4 nano  staff  128 Mar 10 11:33 ..
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:33 flutter
+
+./android/app/src/main/java/io/flutter:
+total 0
+drwxr-xr-x  3 nano  staff  96 Mar 10 11:33 .
+drwxr-xr-x  3 nano  staff  96 Mar 10 11:33 ..
+drwxr-xr-x  3 nano  staff  96 Mar 10 11:33 plugins
+
+./android/app/src/main/java/io/flutter/plugins:
+total 8
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:33 .
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:33 ..
+-rw-r--r--  1 nano  staff  905 Mar 10 13:34 GeneratedPluginRegistrant.java
+
+./android/app/src/main/res:
+total 0
+drwxr-xr-x  9 nano  staff  288 Mar 10 11:29 .
+drwxr-xr-x  5 nano  staff  160 Mar 10 11:29 ..
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:30 drawable
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:29 mipmap-hdpi
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:30 mipmap-mdpi
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:30 mipmap-xhdpi
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:30 mipmap-xxhdpi
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:30 mipmap-xxxhdpi
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:29 values
+
+./android/app/src/main/res/drawable:
+total 8
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:30 .
+drwxr-xr-x  9 nano  staff  288 Mar 10 11:29 ..
+-rw-r--r--  1 nano  staff  446 Mar 10 11:29 launch_background.xml
+
+./android/app/src/main/res/mipmap-hdpi:
+total 8
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:29 .
+drwxr-xr-x  9 nano  staff  288 Mar 10 11:29 ..
+-rw-r--r--  1 nano  staff  544 Mar 10 11:29 ic_launcher.png
+
+./android/app/src/main/res/mipmap-mdpi:
+total 8
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:30 .
+drwxr-xr-x  9 nano  staff  288 Mar 10 11:29 ..
+-rw-r--r--  1 nano  staff  442 Mar 10 11:29 ic_launcher.png
+
+./android/app/src/main/res/mipmap-xhdpi:
+total 8
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:30 .
+drwxr-xr-x  9 nano  staff  288 Mar 10 11:29 ..
+-rw-r--r--  1 nano  staff  721 Mar 10 11:29 ic_launcher.png
+
+./android/app/src/main/res/mipmap-xxhdpi:
+total 8
+drwxr-xr-x  3 nano  staff    96 Mar 10 11:30 .
+drwxr-xr-x  9 nano  staff   288 Mar 10 11:29 ..
+-rw-r--r--  1 nano  staff  1031 Mar 10 11:29 ic_launcher.png
+
+./android/app/src/main/res/mipmap-xxxhdpi:
+total 8
+drwxr-xr-x  3 nano  staff    96 Mar 10 11:30 .
+drwxr-xr-x  9 nano  staff   288 Mar 10 11:29 ..
+-rw-r--r--  1 nano  staff  1443 Mar 10 11:29 ic_launcher.png
+
+./android/app/src/main/res/values:
+total 8
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:29 .
+drwxr-xr-x  9 nano  staff  288 Mar 10 11:29 ..
+-rw-r--r--  1 nano  staff  369 Mar 10 11:29 styles.xml
+
+./android/gradle:
+total 0
+drwxr-xr-x   3 nano  staff   96 Mar 10 11:29 .
+drwxr-xr-x  10 nano  staff  320 Mar 10 11:29 ..
+drwxr-xr-x   3 nano  staff   96 Mar 10 11:29 wrapper
+
+./android/gradle/wrapper:
+total 8
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:29 .
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:29 ..
+-rw-r--r--  1 nano  staff  237 Mar 10 11:29 gradle-wrapper.properties
+
+./build:
+total 6576
+drwxr-xr-x   9 nano  staff      288 Mar 10 13:34 .
+drwxr-xr-x  19 nano  staff      608 Mar 10 13:35 ..
+drwxr-xr-x   8 nano  staff      256 Mar 10 12:16 aot
+-rw-r--r--   1 nano  staff   190332 Mar 10 13:34 app.flx
+drwxr-xr-x   7 nano  staff      224 Mar 10 13:34 flutter_assets
+drwxr-xr-x@  8 nano  staff      256 Mar 10 12:17 ios
+	com.apple.XcodeGenerated	      3 
+	com.apple.metadata:com_apple_backup_excludeItem	     61 
+-rw-r--r--   1 nano  staff  3054375 Mar 10 13:32 snapshot_blob.bin
+-rw-r--r--   1 nano  staff    47959 Mar 10 13:32 snapshot_blob.bin.d
+-rw-r--r--   1 nano  staff    67664 Mar 10 13:34 snapshot_blob.bin.d.fingerprint
+
+./build/aot:
+total 88472
+drwxr-xr-x  8 nano  staff       256 Mar 10 12:16 .
+drwxr-xr-x  9 nano  staff       288 Mar 10 13:34 ..
+drwxr-xr-x  3 nano  staff        96 Mar 10 12:15 App.framework
+-rw-r--r--  1 nano  staff       103 Mar 10 12:15 gen_snapshot.d
+-rw-r--r--  1 nano  staff     49029 Mar 10 12:15 snapshot.d
+-rw-r--r--  1 nano  staff     69513 Mar 10 12:15 snapshot.d.fingerprint
+-rw-r--r--  1 nano  staff  34466667 Mar 10 12:15 snapshot_assembly.S
+-rw-r--r--  1 nano  staff  10704184 Mar 10 12:15 snapshot_assembly.o
+
+./build/aot/App.framework:
+total 21384
+drwxr-xr-x  3 nano  staff        96 Mar 10 12:15 .
+drwxr-xr-x  8 nano  staff       256 Mar 10 12:16 ..
+-rwxr-xr-x  1 nano  staff  10957500 Mar 10 12:15 App
+
+./build/flutter_assets:
+total 1824
+drwxr-xr-x  7 nano  staff     224 Mar 10 13:34 .
+drwxr-xr-x  9 nano  staff     288 Mar 10 13:34 ..
+-rw-r--r--  1 nano  staff     109 Mar 10 13:34 AssetManifest.json
+-rw-r--r--  1 nano  staff     208 Mar 10 13:34 FontManifest.json
+-rw-r--r--  1 nano  staff  924418 Mar 10 13:34 LICENSE
+drwxr-xr-x  3 nano  staff      96 Mar 10 13:34 fonts
+drwxr-xr-x  3 nano  staff      96 Mar 10 13:34 packages
+
+./build/flutter_assets/fonts:
+total 264
+drwxr-xr-x  3 nano  staff      96 Mar 10 13:34 .
+drwxr-xr-x  7 nano  staff     224 Mar 10 13:34 ..
+-rw-r--r--  1 nano  staff  134640 Mar 10 13:34 MaterialIcons-Regular.ttf
+
+./build/flutter_assets/packages:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:34 .
+drwxr-xr-x  7 nano  staff  224 Mar 10 13:34 ..
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:34 cupertino_icons
+
+./build/flutter_assets/packages/cupertino_icons:
+total 0
+drwxr-xr-x  3 nano  staff  96 Mar 10 13:34 .
+drwxr-xr-x  3 nano  staff  96 Mar 10 13:34 ..
+drwxr-xr-x  3 nano  staff  96 Mar 10 13:34 assets
+
+./build/flutter_assets/packages/cupertino_icons/assets:
+total 192
+drwxr-xr-x  3 nano  staff     96 Mar 10 13:34 .
+drwxr-xr-x  3 nano  staff     96 Mar 10 13:34 ..
+-rw-r--r--  1 nano  staff  97680 Mar 10 13:34 CupertinoIcons.ttf
+
+./build/ios:
+total 0
+drwxr-xr-x@  8 nano  staff  256 Mar 10 12:17 .
+	com.apple.XcodeGenerated	  3 
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+drwxr-xr-x   9 nano  staff  288 Mar 10 13:34 ..
+drwxr-xr-x   2 nano  staff   64 Mar 10 13:34 Debug-iphoneos
+drwxr-xr-x  10 nano  staff  320 Mar 10 13:32 Debug-iphonesimulator
+drwxr-xr-x  11 nano  staff  352 Mar 10 12:16 Release-iphoneos
+drwxr-xr-x@  4 nano  staff  128 Mar 10 12:14 Runner.build
+	com.apple.XcodeGenerated	  3 
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+drwxr-xr-x   3 nano  staff   96 Mar 10 12:17 iphoneos
+drwxr-xr-x   3 nano  staff   96 Mar 10 11:43 iphonesimulator
+
+./build/ios/Debug-iphoneos:
+total 0
+drwxr-xr-x  2 nano  staff   64 Mar 10 13:34 .
+drwxr-xr-x@ 8 nano  staff  256 Mar 10 12:17 ..
+	com.apple.XcodeGenerated	  3 
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+
+./build/ios/Debug-iphonesimulator:
+total 16
+drwxr-xr-x  10 nano  staff   320 Mar 10 13:32 .
+drwxr-xr-x@  8 nano  staff   256 Mar 10 12:17 ..
+	com.apple.XcodeGenerated	   3 
+	com.apple.metadata:com_apple_backup_excludeItem	  61 
+drwxr-xr-x   6 nano  staff   192 Mar 10 13:32 GTMOAuth2
+drwxr-xr-x  10 nano  staff   320 Mar 10 13:32 GTMSessionFetcher
+drwxr-xr-x  10 nano  staff   320 Mar 10 13:32 GoogleToolboxForMac
+drwxr-xr-x@ 34 nano  staff  1088 Mar 10 13:34 Runner.app
+	com.apple.FinderInfo	  32 
+drwxr-xr-x   3 nano  staff    96 Mar 10 13:32 firebase_auth
+drwxr-xr-x   3 nano  staff    96 Mar 10 13:32 google_sign_in
+-rw-r--r--   1 nano  staff  4376 Mar 10 13:32 libPods-Runner.a
+drwxr-xr-x   7 nano  staff   224 Mar 10 13:32 nanopb
+
+./build/ios/Debug-iphonesimulator/GTMOAuth2:
+total 944
+drwxr-xr-x   6 nano  staff     192 Mar 10 13:32 .
+drwxr-xr-x  10 nano  staff     320 Mar 10 13:32 ..
+-rw-r--r--   1 nano  staff   14905 Mar 10 11:40 GTMOAuth2Authentication.h
+-rw-r--r--   1 nano  staff    6675 Mar 10 11:40 GTMOAuth2SignIn.h
+-rw-r--r--   1 nano  staff   15515 Mar 10 11:40 GTMOAuth2ViewControllerTouch.h
+-rw-r--r--   1 nano  staff  439192 Mar 10 13:32 libGTMOAuth2.a
+
+./build/ios/Debug-iphonesimulator/GTMSessionFetcher:
+total 2712
+drwxr-xr-x  10 nano  staff      320 Mar 10 13:32 .
+drwxr-xr-x  10 nano  staff      320 Mar 10 13:32 ..
+-rw-r--r--   1 nano  staff     1863 Mar 10 11:40 GTMGatherInputStream.h
+-rw-r--r--   1 nano  staff     5508 Mar 10 11:40 GTMMIMEDocument.h
+-rw-r--r--   1 nano  staff     1545 Mar 10 11:40 GTMReadMonitorInputStream.h
+-rw-r--r--   1 nano  staff    59936 Mar 10 11:40 GTMSessionFetcher.h
+-rw-r--r--   1 nano  staff     4088 Mar 10 11:40 GTMSessionFetcherLogging.h
+-rw-r--r--   1 nano  staff     8853 Mar 10 11:40 GTMSessionFetcherService.h
+-rw-r--r--   1 nano  staff     7801 Mar 10 11:40 GTMSessionUploadFetcher.h
+-rw-r--r--   1 nano  staff  1283696 Mar 10 13:32 libGTMSessionFetcher.a
+
+./build/ios/Debug-iphonesimulator/GoogleToolboxForMac:
+total 248
+drwxr-xr-x  10 nano  staff    320 Mar 10 13:32 .
+drwxr-xr-x  10 nano  staff    320 Mar 10 13:32 ..
+-rw-r--r--   1 nano  staff   3998 Mar 10 11:40 GTMDebugSelectorValidation.h
+-rw-r--r--   1 nano  staff   1753 Mar 10 11:40 GTMDebugThreadValidation.h
+-rw-r--r--   1 nano  staff  13959 Mar 10 11:40 GTMDefines.h
+-rw-r--r--   1 nano  staff   2528 Mar 10 11:40 GTMMethodCheck.h
+-rw-r--r--   1 nano  staff   9626 Mar 10 11:40 GTMNSData+zlib.h
+-rw-r--r--   1 nano  staff   1652 Mar 10 11:40 GTMNSDictionary+URLArguments.h
+-rw-r--r--   1 nano  staff   1750 Mar 10 11:40 GTMNSString+URLArguments.h
+-rw-r--r--   1 nano  staff  75720 Mar 10 13:32 libGoogleToolboxForMac.a
+
+./build/ios/Debug-iphonesimulator/Runner.app:
+total 5944
+drwxr-xr-x@ 34 nano  staff     1088 Mar 10 13:34 .
+	com.apple.FinderInfo	     32 
+drwxr-xr-x  10 nano  staff      320 Mar 10 13:32 ..
+-rw-r--r--   1 nano  staff      423 Mar 10 11:40 AppFrameworkInfo.plist
+-rw-r--r--   1 nano  staff     1283 Mar 10 11:40 AppIcon20x20@2x.png
+-rw-r--r--   1 nano  staff     1283 Mar 10 11:40 AppIcon20x20@2x~ipad.png
+-rw-r--r--   1 nano  staff     1588 Mar 10 11:40 AppIcon20x20@3x.png
+-rw-r--r--   1 nano  staff      564 Mar 10 11:40 AppIcon20x20~ipad.png
+-rw-r--r--   1 nano  staff     1025 Mar 10 11:40 AppIcon29x29.png
+-rw-r--r--   1 nano  staff     1716 Mar 10 11:40 AppIcon29x29@2x.png
+-rw-r--r--   1 nano  staff     1716 Mar 10 11:40 AppIcon29x29@2x~ipad.png
+-rw-r--r--   1 nano  staff     1920 Mar 10 11:40 AppIcon29x29@3x.png
+-rw-r--r--   1 nano  staff     1025 Mar 10 11:40 AppIcon29x29~ipad.png
+-rw-r--r--   1 nano  staff     1895 Mar 10 11:40 AppIcon40x40@2x.png
+-rw-r--r--   1 nano  staff     1895 Mar 10 11:40 AppIcon40x40@2x~ipad.png
+-rw-r--r--   1 nano  staff     2665 Mar 10 11:40 AppIcon40x40@3x.png
+-rw-r--r--   1 nano  staff     1283 Mar 10 11:40 AppIcon40x40~ipad.png
+-rw-r--r--   1 nano  staff     2665 Mar 10 11:40 AppIcon60x60@2x.png
+-rw-r--r--   1 nano  staff     3831 Mar 10 11:40 AppIcon60x60@3x.png
+-rw-r--r--   1 nano  staff     3294 Mar 10 11:40 AppIcon76x76@2x~ipad.png
+-rw-r--r--   1 nano  staff     1888 Mar 10 11:40 AppIcon76x76~ipad.png
+-rw-r--r--   1 nano  staff     3612 Mar 10 11:40 AppIcon83.5x83.5@2x~ipad.png
+-rw-r--r--   1 nano  staff   114904 Mar 10 11:40 Assets.car
+drwxr-xr-x   4 nano  staff      128 Mar 10 11:40 Base.lproj
+-rw-r--r--   1 nano  staff      107 Mar 10 11:40 Debug.xcconfig
+drwxr-xr-x   4 nano  staff      128 Mar 10 13:34 Frameworks
+-rw-r--r--   1 nano  staff     3648 Mar 10 13:34 GTMOAuth2ViewTouch.nib
+-rw-r--r--   1 nano  staff      411 Mar 10 13:34 Generated.xcconfig
+-rw-r--r--   1 nano  staff      889 Mar 10 13:32 GoogleService-Info.plist
+drwxr-xr-x  43 nano  staff     1376 Mar 10 11:35 GoogleSignIn.bundle
+-rw-r--r--   1 nano  staff     1667 Mar 10 13:32 Info.plist
+-rw-r--r--   1 nano  staff        8 Mar 10 13:32 PkgInfo
+-rwxr-xr-x   1 nano  staff  2818208 Mar 10 13:34 Runner
+drwxr-xr-x   3 nano  staff       96 Mar 10 11:40 _CodeSignature
+drwxr-xr-x   8 nano  staff      256 Mar 10 13:34 flutter_assets
+
+./build/ios/Debug-iphonesimulator/Runner.app/Base.lproj:
+total 0
+drwxr-xr-x   4 nano  staff   128 Mar 10 11:40 .
+drwxr-xr-x@ 34 nano  staff  1088 Mar 10 13:34 ..
+	com.apple.FinderInfo	  32 
+drwxr-xr-x   5 nano  staff   160 Mar 10 11:40 LaunchScreen.storyboardc
+drwxr-xr-x   5 nano  staff   160 Mar 10 11:40 Main.storyboardc
+
+./build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc:
+total 24
+drwxr-xr-x  5 nano  staff   160 Mar 10 11:40 .
+drwxr-xr-x  4 nano  staff   128 Mar 10 11:40 ..
+-rw-r--r--  1 nano  staff  2157 Mar 10 11:40 01J-lp-oVM-view-Ze5-6b-2t3.nib
+-rw-r--r--  1 nano  staff   258 Mar 10 11:40 Info.plist
+-rw-r--r--  1 nano  staff   832 Mar 10 11:40 UIViewController-01J-lp-oVM.nib
+
+./build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/Main.storyboardc:
+total 24
+drwxr-xr-x  5 nano  staff   160 Mar 10 11:40 .
+drwxr-xr-x  4 nano  staff   128 Mar 10 11:40 ..
+-rw-r--r--  1 nano  staff  1791 Mar 10 11:40 BYZ-38-t0r-view-8bC-Xf-vdC.nib
+-rw-r--r--  1 nano  staff   258 Mar 10 11:40 Info.plist
+-rw-r--r--  1 nano  staff   923 Mar 10 11:40 UIViewController-BYZ-38-t0r.nib
+
+./build/ios/Debug-iphonesimulator/Runner.app/Frameworks:
+total 0
+drwxr-xr-x   4 nano  staff   128 Mar 10 13:34 .
+drwxr-xr-x@ 34 nano  staff  1088 Mar 10 13:34 ..
+	com.apple.FinderInfo	  32 
+drwxr-xr-x   5 nano  staff   160 Mar 10 13:34 App.framework
+drwxr-xr-x   6 nano  staff   192 Mar 10 13:34 Flutter.framework
+
+./build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework:
+total 40
+drwxr-xr-x  5 nano  staff    160 Mar 10 13:34 .
+drwxr-xr-x  4 nano  staff    128 Mar 10 13:34 ..
+-rwxr-xr-x  1 nano  staff  13696 Mar 10 13:34 App
+-rw-r--r--  1 nano  staff    893 Mar 10 13:34 Info.plist
+drwxr-xr-x  3 nano  staff     96 Mar 10 13:34 _CodeSignature
+
+./build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature:
+total 8
+drwxr-xr-x  3 nano  staff    96 Mar 10 13:34 .
+drwxr-xr-x  5 nano  staff   160 Mar 10 13:34 ..
+-rw-r--r--  1 nano  staff  2202 Mar 10 13:34 CodeResources
+
+./build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework:
+total 60416
+drwxr-xr-x  6 nano  staff       192 Mar 10 13:34 .
+drwxr-xr-x  4 nano  staff       128 Mar 10 13:34 ..
+-rwxr-xr-x  1 nano  staff  24298288 Mar 10 13:34 Flutter
+-rw-r--r--  1 nano  staff       867 Feb 17 01:50 Info.plist
+drwxr-xr-x  3 nano  staff        96 Mar 10 13:34 _CodeSignature
+-rw-r--r--  1 nano  staff   6623360 Feb 17 01:50 icudtl.dat
+
+./build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/_CodeSignature:
+total 8
+drwxr-xr-x  3 nano  staff    96 Mar 10 13:34 .
+drwxr-xr-x  6 nano  staff   192 Mar 10 13:34 ..
+-rw-r--r--  1 nano  staff  2488 Mar 10 13:34 CodeResources
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle:
+total 288
+drwxr-xr-x  43 nano  staff    1376 Mar 10 11:35 .
+drwxr-xr-x@ 34 nano  staff    1088 Mar 10 13:34 ..
+	com.apple.FinderInfo	    32 
+-rwxr-xr-x   1 nano  staff     729 Mar 10 11:35 Info.plist
+-rwxr-xr-x   1 nano  staff  127744 Mar 10 11:35 Roboto-Bold.ttf
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ar.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ca.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 cs.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 da.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 de.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 el.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 en.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 en_GB.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 es.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 es_MX.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 fi.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 fr.lproj
+-rwxr-xr-x   1 nano  staff     572 Mar 10 11:35 google.png
+-rwxr-xr-x   1 nano  staff     987 Mar 10 11:35 google@2x.png
+-rwxr-xr-x   1 nano  staff    1622 Mar 10 11:35 google@3x.png
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 he.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 hr.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 hu.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 id.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 it.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ja.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ko.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ms.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 nb.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 nl.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 pl.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 pt.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 pt_BR.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 pt_PT.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ro.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ru.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 sk.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 sv.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 th.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 tr.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 uk.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 vi.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 zh_CN.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 zh_TW.lproj
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/ar.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   823 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/ca.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   766 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/cs.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   735 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/da.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   670 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/de.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   723 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/el.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   871 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/en.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   658 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/en_GB.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   658 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/es.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   724 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/es_MX.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   665 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/fi.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   709 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/fr.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   728 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/he.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   748 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/hr.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   697 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/hu.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   748 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/id.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   654 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/it.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   671 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/ja.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   765 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/ko.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   719 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/ms.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   687 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/nb.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   670 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/nl.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   683 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/pl.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   697 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/pt.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   717 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/pt_BR.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   717 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/pt_PT.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   725 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/ro.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   719 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/ru.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   844 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/sk.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   753 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/sv.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   687 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/th.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   934 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/tr.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   695 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/uk.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   874 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/vi.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   743 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/zh_CN.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   702 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/GoogleSignIn.bundle/zh_TW.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   674 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Debug-iphonesimulator/Runner.app/_CodeSignature:
+total 72
+drwxr-xr-x   3 nano  staff     96 Mar 10 11:40 .
+drwxr-xr-x@ 34 nano  staff   1088 Mar 10 13:34 ..
+	com.apple.FinderInfo	   32 
+-rw-r--r--   1 nano  staff  34131 Mar 10 11:43 CodeResources
+
+./build/ios/Debug-iphonesimulator/Runner.app/flutter_assets:
+total 7792
+drwxr-xr-x   8 nano  staff      256 Mar 10 13:34 .
+drwxr-xr-x@ 34 nano  staff     1088 Mar 10 13:34 ..
+	com.apple.FinderInfo	     32 
+-rw-r--r--   1 nano  staff      109 Mar 10 13:34 AssetManifest.json
+-rw-r--r--   1 nano  staff      208 Mar 10 13:34 FontManifest.json
+-rw-r--r--   1 nano  staff   924418 Mar 10 13:34 LICENSE
+drwxr-xr-x   3 nano  staff       96 Mar 10 13:34 fonts
+drwxr-xr-x   3 nano  staff       96 Mar 10 13:34 packages
+-rw-r--r--   1 nano  staff  3054375 Mar 10 13:34 snapshot_blob.bin
+
+./build/ios/Debug-iphonesimulator/Runner.app/flutter_assets/fonts:
+total 264
+drwxr-xr-x  3 nano  staff      96 Mar 10 13:34 .
+drwxr-xr-x  8 nano  staff     256 Mar 10 13:34 ..
+-rw-r--r--  1 nano  staff  134640 Mar 10 13:34 MaterialIcons-Regular.ttf
+
+./build/ios/Debug-iphonesimulator/Runner.app/flutter_assets/packages:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:34 .
+drwxr-xr-x  8 nano  staff  256 Mar 10 13:34 ..
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:34 cupertino_icons
+
+./build/ios/Debug-iphonesimulator/Runner.app/flutter_assets/packages/cupertino_icons:
+total 0
+drwxr-xr-x  3 nano  staff  96 Mar 10 13:34 .
+drwxr-xr-x  3 nano  staff  96 Mar 10 13:34 ..
+drwxr-xr-x  3 nano  staff  96 Mar 10 13:34 assets
+
+./build/ios/Debug-iphonesimulator/Runner.app/flutter_assets/packages/cupertino_icons/assets:
+total 192
+drwxr-xr-x  3 nano  staff     96 Mar 10 13:34 .
+drwxr-xr-x  3 nano  staff     96 Mar 10 13:34 ..
+-rw-r--r--  1 nano  staff  97680 Mar 10 13:34 CupertinoIcons.ttf
+
+./build/ios/Debug-iphonesimulator/firebase_auth:
+total 192
+drwxr-xr-x   3 nano  staff     96 Mar 10 13:32 .
+drwxr-xr-x  10 nano  staff    320 Mar 10 13:32 ..
+-rw-r--r--   1 nano  staff  98176 Mar 10 13:32 libfirebase_auth.a
+
+./build/ios/Debug-iphonesimulator/google_sign_in:
+total 128
+drwxr-xr-x   3 nano  staff     96 Mar 10 13:32 .
+drwxr-xr-x  10 nano  staff    320 Mar 10 13:32 ..
+-rw-r--r--   1 nano  staff  62272 Mar 10 13:32 libgoogle_sign_in.a
+
+./build/ios/Debug-iphonesimulator/nanopb:
+total 240
+drwxr-xr-x   7 nano  staff    224 Mar 10 13:32 .
+drwxr-xr-x  10 nano  staff    320 Mar 10 13:32 ..
+-rw-r--r--   1 nano  staff  76600 Mar 10 13:32 libnanopb.a
+-rw-r--r--   1 nano  staff  22631 Mar 10 11:40 pb.h
+-rw-r--r--   1 nano  staff   1421 Mar 10 11:40 pb_common.h
+-rw-r--r--   1 nano  staff   5667 Mar 10 11:40 pb_decode.h
+-rw-r--r--   1 nano  staff   5727 Mar 10 11:40 pb_encode.h
+
+./build/ios/Release-iphoneos:
+total 16
+drwxr-xr-x  11 nano  staff   352 Mar 10 12:16 .
+drwxr-xr-x@  8 nano  staff   256 Mar 10 12:17 ..
+	com.apple.XcodeGenerated	   3 
+	com.apple.metadata:com_apple_backup_excludeItem	  61 
+drwxr-xr-x   6 nano  staff   192 Mar 10 11:49 GTMOAuth2
+drwxr-xr-x  10 nano  staff   320 Mar 10 11:49 GTMSessionFetcher
+drwxr-xr-x  10 nano  staff   320 Mar 10 11:49 GoogleToolboxForMac
+drwxr-xr-x  34 nano  staff  1088 Mar 10 12:17 Runner.app
+drwxr-xr-x@  3 nano  staff    96 Mar 10 12:16 Runner.app.dSYM
+	com.apple.FinderInfo	  32 
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:49 firebase_auth
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:49 google_sign_in
+-rw-r--r--   1 nano  staff  4504 Mar 10 11:49 libPods-Runner.a
+drwxr-xr-x   7 nano  staff   224 Mar 10 11:49 nanopb
+
+./build/ios/Release-iphoneos/GTMOAuth2:
+total 1088
+drwxr-xr-x   6 nano  staff     192 Mar 10 11:49 .
+drwxr-xr-x  11 nano  staff     352 Mar 10 12:16 ..
+-rw-r--r--   1 nano  staff   14905 Mar 10 11:49 GTMOAuth2Authentication.h
+-rw-r--r--   1 nano  staff    6675 Mar 10 11:49 GTMOAuth2SignIn.h
+-rw-r--r--   1 nano  staff   15515 Mar 10 11:49 GTMOAuth2ViewControllerTouch.h
+-rw-r--r--   1 nano  staff  512224 Mar 10 11:49 libGTMOAuth2.a
+
+./build/ios/Release-iphoneos/GTMSessionFetcher:
+total 2416
+drwxr-xr-x  10 nano  staff      320 Mar 10 11:49 .
+drwxr-xr-x  11 nano  staff      352 Mar 10 12:16 ..
+-rw-r--r--   1 nano  staff     1863 Mar 10 11:49 GTMGatherInputStream.h
+-rw-r--r--   1 nano  staff     5508 Mar 10 11:49 GTMMIMEDocument.h
+-rw-r--r--   1 nano  staff     1545 Mar 10 11:49 GTMReadMonitorInputStream.h
+-rw-r--r--   1 nano  staff    59936 Mar 10 11:49 GTMSessionFetcher.h
+-rw-r--r--   1 nano  staff     4088 Mar 10 11:49 GTMSessionFetcherLogging.h
+-rw-r--r--   1 nano  staff     8853 Mar 10 11:49 GTMSessionFetcherService.h
+-rw-r--r--   1 nano  staff     7801 Mar 10 11:49 GTMSessionUploadFetcher.h
+-rw-r--r--   1 nano  staff  1134304 Mar 10 11:49 libGTMSessionFetcher.a
+
+./build/ios/Release-iphoneos/GoogleToolboxForMac:
+total 256
+drwxr-xr-x  10 nano  staff    320 Mar 10 11:49 .
+drwxr-xr-x  11 nano  staff    352 Mar 10 12:16 ..
+-rw-r--r--   1 nano  staff   3998 Mar 10 11:49 GTMDebugSelectorValidation.h
+-rw-r--r--   1 nano  staff   1753 Mar 10 11:49 GTMDebugThreadValidation.h
+-rw-r--r--   1 nano  staff  13959 Mar 10 11:49 GTMDefines.h
+-rw-r--r--   1 nano  staff   2528 Mar 10 11:49 GTMMethodCheck.h
+-rw-r--r--   1 nano  staff   9626 Mar 10 11:49 GTMNSData+zlib.h
+-rw-r--r--   1 nano  staff   1652 Mar 10 11:49 GTMNSDictionary+URLArguments.h
+-rw-r--r--   1 nano  staff   1750 Mar 10 11:49 GTMNSString+URLArguments.h
+-rw-r--r--   1 nano  staff  78320 Mar 10 11:49 libGoogleToolboxForMac.a
+
+./build/ios/Release-iphoneos/Runner.app:
+total 5464
+drwxr-xr-x  34 nano  staff     1088 Mar 10 12:17 .
+drwxr-xr-x  11 nano  staff      352 Mar 10 12:16 ..
+-rw-r--r--   1 nano  staff      423 Mar 10 12:16 AppFrameworkInfo.plist
+-rw-r--r--   1 nano  staff     1304 Mar 10 12:16 AppIcon20x20@2x.png
+-rw-r--r--   1 nano  staff     1304 Mar 10 12:16 AppIcon20x20@2x~ipad.png
+-rw-r--r--   1 nano  staff     1883 Mar 10 12:16 AppIcon20x20@3x.png
+-rw-r--r--   1 nano  staff      531 Mar 10 12:16 AppIcon20x20~ipad.png
+-rw-r--r--   1 nano  staff     1010 Mar 10 12:16 AppIcon29x29.png
+-rw-r--r--   1 nano  staff     1767 Mar 10 12:16 AppIcon29x29@2x.png
+-rw-r--r--   1 nano  staff     1767 Mar 10 12:16 AppIcon29x29@2x~ipad.png
+-rw-r--r--   1 nano  staff     2427 Mar 10 12:16 AppIcon29x29@3x.png
+-rw-r--r--   1 nano  staff     1010 Mar 10 12:16 AppIcon29x29~ipad.png
+-rw-r--r--   1 nano  staff     2389 Mar 10 12:16 AppIcon40x40@2x.png
+-rw-r--r--   1 nano  staff     2389 Mar 10 12:16 AppIcon40x40@2x~ipad.png
+-rw-r--r--   1 nano  staff     3364 Mar 10 12:16 AppIcon40x40@3x.png
+-rw-r--r--   1 nano  staff     1304 Mar 10 12:16 AppIcon40x40~ipad.png
+-rw-r--r--   1 nano  staff     3364 Mar 10 12:16 AppIcon60x60@2x.png
+-rw-r--r--   1 nano  staff     4812 Mar 10 12:16 AppIcon60x60@3x.png
+-rw-r--r--   1 nano  staff     4121 Mar 10 12:16 AppIcon76x76@2x~ipad.png
+-rw-r--r--   1 nano  staff     2357 Mar 10 12:16 AppIcon76x76~ipad.png
+-rw-r--r--   1 nano  staff     4539 Mar 10 12:16 AppIcon83.5x83.5@2x~ipad.png
+-rw-r--r--   1 nano  staff   114904 Mar 10 12:16 Assets.car
+drwxr-xr-x   4 nano  staff      128 Mar 10 12:16 Base.lproj
+-rw-r--r--   1 nano  staff      107 Mar 10 12:16 Debug.xcconfig
+drwxr-xr-x   4 nano  staff      128 Mar 10 12:16 Frameworks
+-rw-r--r--   1 nano  staff     3660 Mar 10 12:17 GTMOAuth2ViewTouch.nib
+-rw-r--r--   1 nano  staff      421 Mar 10 12:16 Generated.xcconfig
+drwxr-xr-x  43 nano  staff     1376 Mar 10 11:35 GoogleSignIn.bundle
+-rw-r--r--   1 nano  staff     1469 Mar 10 12:16 Info.plist
+-rw-r--r--   1 nano  staff        8 Mar 10 12:16 PkgInfo
+-rwxr-xr-x   1 nano  staff  2559536 Mar 10 12:17 Runner
+drwxr-xr-x   3 nano  staff       96 Mar 10 12:17 _CodeSignature
+-rw-r--r--   1 nano  staff     7614 Mar 10 12:17 embedded.mobileprovision
+drwxr-xr-x   7 nano  staff      224 Mar 10 12:16 flutter_assets
+
+./build/ios/Release-iphoneos/Runner.app/Base.lproj:
+total 0
+drwxr-xr-x   4 nano  staff   128 Mar 10 12:16 .
+drwxr-xr-x  34 nano  staff  1088 Mar 10 12:17 ..
+drwxr-xr-x   5 nano  staff   160 Mar 10 12:16 LaunchScreen.storyboardc
+drwxr-xr-x   5 nano  staff   160 Mar 10 12:16 Main.storyboardc
+
+./build/ios/Release-iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc:
+total 24
+drwxr-xr-x  5 nano  staff   160 Mar 10 12:16 .
+drwxr-xr-x  4 nano  staff   128 Mar 10 12:16 ..
+-rw-r--r--  1 nano  staff  2156 Mar 10 12:16 01J-lp-oVM-view-Ze5-6b-2t3.nib
+-rw-r--r--  1 nano  staff   258 Mar 10 12:16 Info.plist
+-rw-r--r--  1 nano  staff   832 Mar 10 12:16 UIViewController-01J-lp-oVM.nib
+
+./build/ios/Release-iphoneos/Runner.app/Base.lproj/Main.storyboardc:
+total 24
+drwxr-xr-x  5 nano  staff   160 Mar 10 12:16 .
+drwxr-xr-x  4 nano  staff   128 Mar 10 12:16 ..
+-rw-r--r--  1 nano  staff  1790 Mar 10 12:16 BYZ-38-t0r-view-8bC-Xf-vdC.nib
+-rw-r--r--  1 nano  staff   258 Mar 10 12:16 Info.plist
+-rw-r--r--  1 nano  staff   923 Mar 10 12:16 UIViewController-BYZ-38-t0r.nib
+
+./build/ios/Release-iphoneos/Runner.app/Frameworks:
+total 0
+drwxr-xr-x   4 nano  staff   128 Mar 10 12:16 .
+drwxr-xr-x  34 nano  staff  1088 Mar 10 12:17 ..
+drwxr-xr-x   5 nano  staff   160 Mar 10 12:16 App.framework
+drwxr-xr-x   6 nano  staff   192 Mar 10 12:17 Flutter.framework
+
+./build/ios/Release-iphoneos/Runner.app/Frameworks/App.framework:
+total 21704
+drwxr-xr-x  5 nano  staff       160 Mar 10 12:16 .
+drwxr-xr-x  4 nano  staff       128 Mar 10 12:16 ..
+-rwxr-xr-x  1 nano  staff  11106288 Mar 10 12:16 App
+-rw-r--r--  1 nano  staff       893 Mar 10 12:16 Info.plist
+drwxr-xr-x  3 nano  staff        96 Mar 10 12:16 _CodeSignature
+
+./build/ios/Release-iphoneos/Runner.app/Frameworks/App.framework/_CodeSignature:
+total 8
+drwxr-xr-x  3 nano  staff    96 Mar 10 12:16 .
+drwxr-xr-x  5 nano  staff   160 Mar 10 12:16 ..
+-rw-r--r--  1 nano  staff  2202 Mar 10 12:16 CodeResources
+
+./build/ios/Release-iphoneos/Runner.app/Frameworks/Flutter.framework:
+total 37264
+drwxr-xr-x  6 nano  staff       192 Mar 10 12:17 .
+drwxr-xr-x  4 nano  staff       128 Mar 10 12:16 ..
+-rwxr-xr-x  1 nano  staff  12444848 Mar 10 12:17 Flutter
+-rw-r--r--  1 nano  staff       867 Feb 17 01:50 Info.plist
+drwxr-xr-x  3 nano  staff        96 Mar 10 12:16 _CodeSignature
+-rw-r--r--  1 nano  staff   6623360 Feb 17 01:50 icudtl.dat
+
+./build/ios/Release-iphoneos/Runner.app/Frameworks/Flutter.framework/_CodeSignature:
+total 8
+drwxr-xr-x  3 nano  staff    96 Mar 10 12:16 .
+drwxr-xr-x  6 nano  staff   192 Mar 10 12:17 ..
+-rw-r--r--  1 nano  staff  2488 Mar 10 12:17 CodeResources
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle:
+total 288
+drwxr-xr-x  43 nano  staff    1376 Mar 10 11:35 .
+drwxr-xr-x  34 nano  staff    1088 Mar 10 12:17 ..
+-rwxr-xr-x   1 nano  staff     729 Mar 10 11:35 Info.plist
+-rwxr-xr-x   1 nano  staff  127744 Mar 10 11:35 Roboto-Bold.ttf
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ar.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ca.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 cs.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 da.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 de.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 el.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 en.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 en_GB.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 es.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 es_MX.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 fi.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 fr.lproj
+-rwxr-xr-x   1 nano  staff     572 Mar 10 11:35 google.png
+-rwxr-xr-x   1 nano  staff     987 Mar 10 11:35 google@2x.png
+-rwxr-xr-x   1 nano  staff    1622 Mar 10 11:35 google@3x.png
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 he.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 hr.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 hu.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 id.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 it.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ja.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ko.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ms.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 nb.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 nl.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 pl.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 pt.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 pt_BR.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 pt_PT.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ro.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ru.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 sk.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 sv.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 th.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 tr.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 uk.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 vi.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 zh_CN.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 zh_TW.lproj
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/ar.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   823 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/ca.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   766 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/cs.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   735 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/da.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   670 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/de.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   723 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/el.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   871 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/en.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   658 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/en_GB.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   658 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/es.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   724 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/es_MX.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   665 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/fi.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   709 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/fr.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   728 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/he.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   748 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/hr.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   697 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/hu.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   748 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/id.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   654 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/it.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   671 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/ja.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   765 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/ko.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   719 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/ms.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   687 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/nb.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   670 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/nl.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   683 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/pl.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   697 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/pt.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   717 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/pt_BR.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   717 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/pt_PT.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   725 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/ro.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   719 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/ru.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   844 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/sk.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   753 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/sv.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   687 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/th.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   934 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/tr.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   695 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/uk.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   874 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/vi.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   743 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/zh_CN.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   702 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/GoogleSignIn.bundle/zh_TW.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   674 Mar 10 11:35 GoogleSignIn.strings
+
+./build/ios/Release-iphoneos/Runner.app/_CodeSignature:
+total 72
+drwxr-xr-x   3 nano  staff     96 Mar 10 12:17 .
+drwxr-xr-x  34 nano  staff   1088 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff  34115 Mar 10 12:17 CodeResources
+
+./build/ios/Release-iphoneos/Runner.app/flutter_assets:
+total 1824
+drwxr-xr-x   7 nano  staff     224 Mar 10 12:16 .
+drwxr-xr-x  34 nano  staff    1088 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff     109 Mar 10 12:16 AssetManifest.json
+-rw-r--r--   1 nano  staff     208 Mar 10 12:16 FontManifest.json
+-rw-r--r--   1 nano  staff  924418 Mar 10 12:16 LICENSE
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:16 fonts
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:16 packages
+
+./build/ios/Release-iphoneos/Runner.app/flutter_assets/fonts:
+total 264
+drwxr-xr-x  3 nano  staff      96 Mar 10 12:16 .
+drwxr-xr-x  7 nano  staff     224 Mar 10 12:16 ..
+-rw-r--r--  1 nano  staff  134640 Mar 10 12:16 MaterialIcons-Regular.ttf
+
+./build/ios/Release-iphoneos/Runner.app/flutter_assets/packages:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 12:16 .
+drwxr-xr-x  7 nano  staff  224 Mar 10 12:16 ..
+drwxr-xr-x  3 nano  staff   96 Mar 10 12:16 cupertino_icons
+
+./build/ios/Release-iphoneos/Runner.app/flutter_assets/packages/cupertino_icons:
+total 0
+drwxr-xr-x  3 nano  staff  96 Mar 10 12:16 .
+drwxr-xr-x  3 nano  staff  96 Mar 10 12:16 ..
+drwxr-xr-x  3 nano  staff  96 Mar 10 12:16 assets
+
+./build/ios/Release-iphoneos/Runner.app/flutter_assets/packages/cupertino_icons/assets:
+total 192
+drwxr-xr-x  3 nano  staff     96 Mar 10 12:16 .
+drwxr-xr-x  3 nano  staff     96 Mar 10 12:16 ..
+-rw-r--r--  1 nano  staff  97680 Mar 10 12:16 CupertinoIcons.ttf
+
+./build/ios/Release-iphoneos/Runner.app.dSYM:
+total 0
+drwxr-xr-x@  3 nano  staff   96 Mar 10 12:16 .
+	com.apple.FinderInfo	 32 
+drwxr-xr-x  11 nano  staff  352 Mar 10 12:16 ..
+drwxr-xr-x   4 nano  staff  128 Mar 10 12:16 Contents
+
+./build/ios/Release-iphoneos/Runner.app.dSYM/Contents:
+total 8
+drwxr-xr-x  4 nano  staff  128 Mar 10 12:16 .
+drwxr-xr-x@ 3 nano  staff   96 Mar 10 12:16 ..
+	com.apple.FinderInfo	 32 
+-rw-r--r--  1 nano  staff  654 Mar 10 12:16 Info.plist
+drwxr-xr-x  3 nano  staff   96 Mar 10 12:16 Resources
+
+./build/ios/Release-iphoneos/Runner.app.dSYM/Contents/Resources:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 12:16 .
+drwxr-xr-x  4 nano  staff  128 Mar 10 12:16 ..
+drwxr-xr-x  3 nano  staff   96 Mar 10 12:16 DWARF
+
+./build/ios/Release-iphoneos/Runner.app.dSYM/Contents/Resources/DWARF:
+total 4096
+drwxr-xr-x  3 nano  staff       96 Mar 10 12:16 .
+drwxr-xr-x  3 nano  staff       96 Mar 10 12:16 ..
+-rw-r--r--  1 nano  staff  2094235 Mar 10 12:16 Runner
+
+./build/ios/Release-iphoneos/firebase_auth:
+total 192
+drwxr-xr-x   3 nano  staff     96 Mar 10 11:49 .
+drwxr-xr-x  11 nano  staff    352 Mar 10 12:16 ..
+-rw-r--r--   1 nano  staff  95128 Mar 10 11:49 libfirebase_auth.a
+
+./build/ios/Release-iphoneos/google_sign_in:
+total 152
+drwxr-xr-x   3 nano  staff     96 Mar 10 11:49 .
+drwxr-xr-x  11 nano  staff    352 Mar 10 12:16 ..
+-rw-r--r--   1 nano  staff  73896 Mar 10 11:49 libgoogle_sign_in.a
+
+./build/ios/Release-iphoneos/nanopb:
+total 232
+drwxr-xr-x   7 nano  staff    224 Mar 10 11:49 .
+drwxr-xr-x  11 nano  staff    352 Mar 10 12:16 ..
+-rw-r--r--   1 nano  staff  72752 Mar 10 11:49 libnanopb.a
+-rw-r--r--   1 nano  staff  22631 Mar 10 11:49 pb.h
+-rw-r--r--   1 nano  staff   1421 Mar 10 11:49 pb_common.h
+-rw-r--r--   1 nano  staff   5667 Mar 10 11:49 pb_decode.h
+-rw-r--r--   1 nano  staff   5727 Mar 10 11:49 pb_encode.h
+
+./build/ios/Runner.build:
+total 0
+drwxr-xr-x@ 4 nano  staff  128 Mar 10 12:14 .
+	com.apple.XcodeGenerated	  3 
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+drwxr-xr-x@ 8 nano  staff  256 Mar 10 12:17 ..
+	com.apple.XcodeGenerated	  3 
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+drwxr-xr-x  2 nano  staff   64 Mar 10 13:34 Debug-iphoneos
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:32 Release-iphoneos
+
+./build/ios/Runner.build/Debug-iphoneos:
+total 0
+drwxr-xr-x  2 nano  staff   64 Mar 10 13:34 .
+drwxr-xr-x@ 4 nano  staff  128 Mar 10 12:14 ..
+	com.apple.XcodeGenerated	  3 
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+
+./build/ios/Runner.build/Release-iphoneos:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:32 .
+drwxr-xr-x@ 4 nano  staff  128 Mar 10 12:14 ..
+	com.apple.XcodeGenerated	  3 
+	com.apple.metadata:com_apple_backup_excludeItem	 61 
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:32 Runner.build
+
+./build/ios/Runner.build/Release-iphoneos/Runner.build:
+total 8
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:32 .
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:32 ..
+-rw-------  1 nano  staff  112 Mar 10 13:32 dgph
+
+./build/ios/iphoneos:
+total 0
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x@  8 nano  staff   256 Mar 10 12:17 ..
+	com.apple.XcodeGenerated	   3 
+	com.apple.metadata:com_apple_backup_excludeItem	  61 
+drwxr-xr-x  34 nano  staff  1088 Mar 10 12:17 Runner.app
+
+./build/ios/iphoneos/Runner.app:
+total 5464
+drwxr-xr-x  34 nano  staff     1088 Mar 10 12:17 .
+drwxr-xr-x   3 nano  staff       96 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff      423 Mar 10 12:17 AppFrameworkInfo.plist
+-rw-r--r--   1 nano  staff     1304 Mar 10 12:17 AppIcon20x20@2x.png
+-rw-r--r--   1 nano  staff     1304 Mar 10 12:17 AppIcon20x20@2x~ipad.png
+-rw-r--r--   1 nano  staff     1883 Mar 10 12:17 AppIcon20x20@3x.png
+-rw-r--r--   1 nano  staff      531 Mar 10 12:17 AppIcon20x20~ipad.png
+-rw-r--r--   1 nano  staff     1010 Mar 10 12:17 AppIcon29x29.png
+-rw-r--r--   1 nano  staff     1767 Mar 10 12:17 AppIcon29x29@2x.png
+-rw-r--r--   1 nano  staff     1767 Mar 10 12:17 AppIcon29x29@2x~ipad.png
+-rw-r--r--   1 nano  staff     2427 Mar 10 12:17 AppIcon29x29@3x.png
+-rw-r--r--   1 nano  staff     1010 Mar 10 12:17 AppIcon29x29~ipad.png
+-rw-r--r--   1 nano  staff     2389 Mar 10 12:17 AppIcon40x40@2x.png
+-rw-r--r--   1 nano  staff     2389 Mar 10 12:17 AppIcon40x40@2x~ipad.png
+-rw-r--r--   1 nano  staff     3364 Mar 10 12:17 AppIcon40x40@3x.png
+-rw-r--r--   1 nano  staff     1304 Mar 10 12:17 AppIcon40x40~ipad.png
+-rw-r--r--   1 nano  staff     3364 Mar 10 12:17 AppIcon60x60@2x.png
+-rw-r--r--   1 nano  staff     4812 Mar 10 12:17 AppIcon60x60@3x.png
+-rw-r--r--   1 nano  staff     4121 Mar 10 12:17 AppIcon76x76@2x~ipad.png
+-rw-r--r--   1 nano  staff     2357 Mar 10 12:17 AppIcon76x76~ipad.png
+-rw-r--r--   1 nano  staff     4539 Mar 10 12:17 AppIcon83.5x83.5@2x~ipad.png
+-rw-r--r--   1 nano  staff   114904 Mar 10 12:17 Assets.car
+drwxr-xr-x   4 nano  staff      128 Mar 10 12:17 Base.lproj
+-rw-r--r--   1 nano  staff      107 Mar 10 12:17 Debug.xcconfig
+drwxr-xr-x   4 nano  staff      128 Mar 10 12:17 Frameworks
+-rw-r--r--   1 nano  staff     3660 Mar 10 12:17 GTMOAuth2ViewTouch.nib
+-rw-r--r--   1 nano  staff      421 Mar 10 12:17 Generated.xcconfig
+drwxr-xr-x  43 nano  staff     1376 Mar 10 12:17 GoogleSignIn.bundle
+-rw-r--r--   1 nano  staff     1469 Mar 10 12:17 Info.plist
+-rw-r--r--   1 nano  staff        8 Mar 10 12:17 PkgInfo
+-rw-r--r--   1 nano  staff  2559536 Mar 10 12:17 Runner
+drwxr-xr-x   3 nano  staff       96 Mar 10 12:17 _CodeSignature
+-rw-r--r--   1 nano  staff     7614 Mar 10 12:17 embedded.mobileprovision
+drwxr-xr-x   7 nano  staff      224 Mar 10 12:17 flutter_assets
+
+./build/ios/iphoneos/Runner.app/Base.lproj:
+total 0
+drwxr-xr-x   4 nano  staff   128 Mar 10 12:17 .
+drwxr-xr-x  34 nano  staff  1088 Mar 10 12:17 ..
+drwxr-xr-x   5 nano  staff   160 Mar 10 12:17 LaunchScreen.storyboardc
+drwxr-xr-x   5 nano  staff   160 Mar 10 12:17 Main.storyboardc
+
+./build/ios/iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc:
+total 24
+drwxr-xr-x  5 nano  staff   160 Mar 10 12:17 .
+drwxr-xr-x  4 nano  staff   128 Mar 10 12:17 ..
+-rw-r--r--  1 nano  staff  2156 Mar 10 12:17 01J-lp-oVM-view-Ze5-6b-2t3.nib
+-rw-r--r--  1 nano  staff   258 Mar 10 12:17 Info.plist
+-rw-r--r--  1 nano  staff   832 Mar 10 12:17 UIViewController-01J-lp-oVM.nib
+
+./build/ios/iphoneos/Runner.app/Base.lproj/Main.storyboardc:
+total 24
+drwxr-xr-x  5 nano  staff   160 Mar 10 12:17 .
+drwxr-xr-x  4 nano  staff   128 Mar 10 12:17 ..
+-rw-r--r--  1 nano  staff  1790 Mar 10 12:17 BYZ-38-t0r-view-8bC-Xf-vdC.nib
+-rw-r--r--  1 nano  staff   258 Mar 10 12:17 Info.plist
+-rw-r--r--  1 nano  staff   923 Mar 10 12:17 UIViewController-BYZ-38-t0r.nib
+
+./build/ios/iphoneos/Runner.app/Frameworks:
+total 0
+drwxr-xr-x   4 nano  staff   128 Mar 10 12:17 .
+drwxr-xr-x  34 nano  staff  1088 Mar 10 12:17 ..
+drwxr-xr-x   5 nano  staff   160 Mar 10 12:17 App.framework
+drwxr-xr-x   6 nano  staff   192 Mar 10 12:17 Flutter.framework
+
+./build/ios/iphoneos/Runner.app/Frameworks/App.framework:
+total 21704
+drwxr-xr-x  5 nano  staff       160 Mar 10 12:17 .
+drwxr-xr-x  4 nano  staff       128 Mar 10 12:17 ..
+-rw-r--r--  1 nano  staff  11106288 Mar 10 12:17 App
+-rw-r--r--  1 nano  staff       893 Mar 10 12:17 Info.plist
+drwxr-xr-x  3 nano  staff        96 Mar 10 12:17 _CodeSignature
+
+./build/ios/iphoneos/Runner.app/Frameworks/App.framework/_CodeSignature:
+total 8
+drwxr-xr-x  3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  5 nano  staff   160 Mar 10 12:17 ..
+-rw-r--r--  1 nano  staff  2202 Mar 10 12:17 CodeResources
+
+./build/ios/iphoneos/Runner.app/Frameworks/Flutter.framework:
+total 37264
+drwxr-xr-x  6 nano  staff       192 Mar 10 12:17 .
+drwxr-xr-x  4 nano  staff       128 Mar 10 12:17 ..
+-rw-r--r--  1 nano  staff  12444848 Mar 10 12:17 Flutter
+-rw-r--r--  1 nano  staff       867 Mar 10 12:17 Info.plist
+drwxr-xr-x  3 nano  staff        96 Mar 10 12:17 _CodeSignature
+-rw-r--r--  1 nano  staff   6623360 Mar 10 12:17 icudtl.dat
+
+./build/ios/iphoneos/Runner.app/Frameworks/Flutter.framework/_CodeSignature:
+total 8
+drwxr-xr-x  3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  6 nano  staff   192 Mar 10 12:17 ..
+-rw-r--r--  1 nano  staff  2488 Mar 10 12:17 CodeResources
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle:
+total 288
+drwxr-xr-x  43 nano  staff    1376 Mar 10 12:17 .
+drwxr-xr-x  34 nano  staff    1088 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff     729 Mar 10 12:17 Info.plist
+-rw-r--r--   1 nano  staff  127744 Mar 10 12:17 Roboto-Bold.ttf
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 ar.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 ca.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 cs.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 da.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 de.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 el.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 en.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 en_GB.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 es.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 es_MX.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 fi.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 fr.lproj
+-rw-r--r--   1 nano  staff     572 Mar 10 12:17 google.png
+-rw-r--r--   1 nano  staff     987 Mar 10 12:17 google@2x.png
+-rw-r--r--   1 nano  staff    1622 Mar 10 12:17 google@3x.png
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 he.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 hr.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 hu.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 id.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 it.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 ja.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 ko.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 ms.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 nb.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 nl.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 pl.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 pt.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 pt_BR.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 pt_PT.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 ro.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 ru.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 sk.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 sv.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 th.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 tr.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 uk.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 vi.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 zh_CN.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 zh_TW.lproj
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/ar.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   823 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/ca.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   766 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/cs.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   735 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/da.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   670 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/de.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   723 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/el.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   871 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/en.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   658 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/en_GB.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   658 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/es.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   724 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/es_MX.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   665 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/fi.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   709 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/fr.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   728 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/he.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   748 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/hr.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   697 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/hu.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   748 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/id.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   654 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/it.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   671 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/ja.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   765 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/ko.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   719 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/ms.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   687 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/nb.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   670 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/nl.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   683 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/pl.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   697 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/pt.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   717 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/pt_BR.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   717 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/pt_PT.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   725 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/ro.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   719 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/ru.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   844 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/sk.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   753 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/sv.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   687 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/th.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   934 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/tr.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   695 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/uk.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   874 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/vi.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   743 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/zh_CN.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   702 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/GoogleSignIn.bundle/zh_TW.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 12:17 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff   674 Mar 10 12:17 GoogleSignIn.strings
+
+./build/ios/iphoneos/Runner.app/_CodeSignature:
+total 72
+drwxr-xr-x   3 nano  staff     96 Mar 10 12:17 .
+drwxr-xr-x  34 nano  staff   1088 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff  34115 Mar 10 12:17 CodeResources
+
+./build/ios/iphoneos/Runner.app/flutter_assets:
+total 1824
+drwxr-xr-x   7 nano  staff     224 Mar 10 12:17 .
+drwxr-xr-x  34 nano  staff    1088 Mar 10 12:17 ..
+-rw-r--r--   1 nano  staff     109 Mar 10 12:17 AssetManifest.json
+-rw-r--r--   1 nano  staff     208 Mar 10 12:17 FontManifest.json
+-rw-r--r--   1 nano  staff  924418 Mar 10 12:17 LICENSE
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 fonts
+drwxr-xr-x   3 nano  staff      96 Mar 10 12:17 packages
+
+./build/ios/iphoneos/Runner.app/flutter_assets/fonts:
+total 264
+drwxr-xr-x  3 nano  staff      96 Mar 10 12:17 .
+drwxr-xr-x  7 nano  staff     224 Mar 10 12:17 ..
+-rw-r--r--  1 nano  staff  134640 Mar 10 12:17 MaterialIcons-Regular.ttf
+
+./build/ios/iphoneos/Runner.app/flutter_assets/packages:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 12:17 .
+drwxr-xr-x  7 nano  staff  224 Mar 10 12:17 ..
+drwxr-xr-x  3 nano  staff   96 Mar 10 12:17 cupertino_icons
+
+./build/ios/iphoneos/Runner.app/flutter_assets/packages/cupertino_icons:
+total 0
+drwxr-xr-x  3 nano  staff  96 Mar 10 12:17 .
+drwxr-xr-x  3 nano  staff  96 Mar 10 12:17 ..
+drwxr-xr-x  3 nano  staff  96 Mar 10 12:17 assets
+
+./build/ios/iphoneos/Runner.app/flutter_assets/packages/cupertino_icons/assets:
+total 192
+drwxr-xr-x  3 nano  staff     96 Mar 10 12:17 .
+drwxr-xr-x  3 nano  staff     96 Mar 10 12:17 ..
+-rw-r--r--  1 nano  staff  97680 Mar 10 12:17 CupertinoIcons.ttf
+
+./build/ios/iphonesimulator:
+total 0
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x@  8 nano  staff   256 Mar 10 12:17 ..
+	com.apple.XcodeGenerated	   3 
+	com.apple.metadata:com_apple_backup_excludeItem	  61 
+drwxr-xr-x  33 nano  staff  1056 Mar 10 11:43 Runner.app
+
+./build/ios/iphonesimulator/Runner.app:
+total 6024
+drwxr-xr-x  33 nano  staff     1056 Mar 10 11:43 .
+drwxr-xr-x   3 nano  staff       96 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff      423 Mar 10 11:43 AppFrameworkInfo.plist
+-rw-r--r--   1 nano  staff     1283 Mar 10 11:43 AppIcon20x20@2x.png
+-rw-r--r--   1 nano  staff     1283 Mar 10 11:43 AppIcon20x20@2x~ipad.png
+-rw-r--r--   1 nano  staff     1588 Mar 10 11:43 AppIcon20x20@3x.png
+-rw-r--r--   1 nano  staff      564 Mar 10 11:43 AppIcon20x20~ipad.png
+-rw-r--r--   1 nano  staff     1025 Mar 10 11:43 AppIcon29x29.png
+-rw-r--r--   1 nano  staff     1716 Mar 10 11:43 AppIcon29x29@2x.png
+-rw-r--r--   1 nano  staff     1716 Mar 10 11:43 AppIcon29x29@2x~ipad.png
+-rw-r--r--   1 nano  staff     1920 Mar 10 11:43 AppIcon29x29@3x.png
+-rw-r--r--   1 nano  staff     1025 Mar 10 11:43 AppIcon29x29~ipad.png
+-rw-r--r--   1 nano  staff     1895 Mar 10 11:43 AppIcon40x40@2x.png
+-rw-r--r--   1 nano  staff     1895 Mar 10 11:43 AppIcon40x40@2x~ipad.png
+-rw-r--r--   1 nano  staff     2665 Mar 10 11:43 AppIcon40x40@3x.png
+-rw-r--r--   1 nano  staff     1283 Mar 10 11:43 AppIcon40x40~ipad.png
+-rw-r--r--   1 nano  staff     2665 Mar 10 11:43 AppIcon60x60@2x.png
+-rw-r--r--   1 nano  staff     3831 Mar 10 11:43 AppIcon60x60@3x.png
+-rw-r--r--   1 nano  staff     3294 Mar 10 11:43 AppIcon76x76@2x~ipad.png
+-rw-r--r--   1 nano  staff     1888 Mar 10 11:43 AppIcon76x76~ipad.png
+-rw-r--r--   1 nano  staff     3612 Mar 10 11:43 AppIcon83.5x83.5@2x~ipad.png
+-rw-r--r--   1 nano  staff   114904 Mar 10 11:43 Assets.car
+drwxr-xr-x   4 nano  staff      128 Mar 10 11:43 Base.lproj
+-rw-r--r--   1 nano  staff      107 Mar 10 11:43 Debug.xcconfig
+drwxr-xr-x   4 nano  staff      128 Mar 10 11:43 Frameworks
+-rw-r--r--   1 nano  staff     3653 Mar 10 11:43 GTMOAuth2ViewTouch.nib
+-rw-r--r--   1 nano  staff      411 Mar 10 11:43 Generated.xcconfig
+drwxr-xr-x  43 nano  staff     1376 Mar 10 11:43 GoogleSignIn.bundle
+-rw-r--r--   1 nano  staff     1499 Mar 10 11:43 Info.plist
+-rw-r--r--   1 nano  staff        8 Mar 10 11:43 PkgInfo
+-rw-r--r--   1 nano  staff  2863488 Mar 10 11:43 Runner
+drwxr-xr-x   3 nano  staff       96 Mar 10 11:43 _CodeSignature
+drwxr-xr-x   8 nano  staff      256 Mar 10 11:43 flutter_assets
+
+./build/ios/iphonesimulator/Runner.app/Base.lproj:
+total 0
+drwxr-xr-x   4 nano  staff   128 Mar 10 11:43 .
+drwxr-xr-x  33 nano  staff  1056 Mar 10 11:43 ..
+drwxr-xr-x   5 nano  staff   160 Mar 10 11:43 LaunchScreen.storyboardc
+drwxr-xr-x   5 nano  staff   160 Mar 10 11:43 Main.storyboardc
+
+./build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc:
+total 24
+drwxr-xr-x  5 nano  staff   160 Mar 10 11:43 .
+drwxr-xr-x  4 nano  staff   128 Mar 10 11:43 ..
+-rw-r--r--  1 nano  staff  2157 Mar 10 11:43 01J-lp-oVM-view-Ze5-6b-2t3.nib
+-rw-r--r--  1 nano  staff   258 Mar 10 11:43 Info.plist
+-rw-r--r--  1 nano  staff   832 Mar 10 11:43 UIViewController-01J-lp-oVM.nib
+
+./build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc:
+total 24
+drwxr-xr-x  5 nano  staff   160 Mar 10 11:43 .
+drwxr-xr-x  4 nano  staff   128 Mar 10 11:43 ..
+-rw-r--r--  1 nano  staff  1791 Mar 10 11:43 BYZ-38-t0r-view-8bC-Xf-vdC.nib
+-rw-r--r--  1 nano  staff   258 Mar 10 11:43 Info.plist
+-rw-r--r--  1 nano  staff   923 Mar 10 11:43 UIViewController-BYZ-38-t0r.nib
+
+./build/ios/iphonesimulator/Runner.app/Frameworks:
+total 0
+drwxr-xr-x   4 nano  staff   128 Mar 10 11:43 .
+drwxr-xr-x  33 nano  staff  1056 Mar 10 11:43 ..
+drwxr-xr-x   5 nano  staff   160 Mar 10 11:43 App.framework
+drwxr-xr-x   6 nano  staff   192 Mar 10 11:43 Flutter.framework
+
+./build/ios/iphonesimulator/Runner.app/Frameworks/App.framework:
+total 40
+drwxr-xr-x  5 nano  staff    160 Mar 10 11:43 .
+drwxr-xr-x  4 nano  staff    128 Mar 10 11:43 ..
+-rw-r--r--  1 nano  staff  13696 Mar 10 11:43 App
+-rw-r--r--  1 nano  staff    893 Mar 10 11:43 Info.plist
+drwxr-xr-x  3 nano  staff     96 Mar 10 11:43 _CodeSignature
+
+./build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature:
+total 8
+drwxr-xr-x  3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  5 nano  staff   160 Mar 10 11:43 ..
+-rw-r--r--  1 nano  staff  2202 Mar 10 11:43 CodeResources
+
+./build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework:
+total 60416
+drwxr-xr-x  6 nano  staff       192 Mar 10 11:43 .
+drwxr-xr-x  4 nano  staff       128 Mar 10 11:43 ..
+-rw-r--r--  1 nano  staff  24298288 Mar 10 11:43 Flutter
+-rw-r--r--  1 nano  staff       867 Mar 10 11:43 Info.plist
+drwxr-xr-x  3 nano  staff        96 Mar 10 11:43 _CodeSignature
+-rw-r--r--  1 nano  staff   6623360 Mar 10 11:43 icudtl.dat
+
+./build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/_CodeSignature:
+total 8
+drwxr-xr-x  3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  6 nano  staff   192 Mar 10 11:43 ..
+-rw-r--r--  1 nano  staff  2488 Mar 10 11:43 CodeResources
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle:
+total 288
+drwxr-xr-x  43 nano  staff    1376 Mar 10 11:43 .
+drwxr-xr-x  33 nano  staff    1056 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff     729 Mar 10 11:43 Info.plist
+-rw-r--r--   1 nano  staff  127744 Mar 10 11:43 Roboto-Bold.ttf
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 ar.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 ca.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 cs.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 da.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 de.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 el.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 en.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 en_GB.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 es.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 es_MX.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 fi.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 fr.lproj
+-rw-r--r--   1 nano  staff     572 Mar 10 11:43 google.png
+-rw-r--r--   1 nano  staff     987 Mar 10 11:43 google@2x.png
+-rw-r--r--   1 nano  staff    1622 Mar 10 11:43 google@3x.png
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 he.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 hr.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 hu.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 id.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 it.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 ja.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 ko.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 ms.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 nb.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 nl.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 pl.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 pt.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 pt_BR.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 pt_PT.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 ro.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 ru.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 sk.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 sv.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 th.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 tr.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 uk.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 vi.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 zh_CN.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:43 zh_TW.lproj
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/ar.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   823 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/ca.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   766 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/cs.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   735 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/da.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   670 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/de.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   723 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/el.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   871 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/en.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   658 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/en_GB.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   658 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/es.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   724 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/es_MX.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   665 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/fi.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   709 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/fr.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   728 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/he.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   748 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/hr.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   697 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/hu.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   748 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/id.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   654 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/it.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   671 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/ja.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   765 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/ko.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   719 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/ms.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   687 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/nb.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   670 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/nl.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   683 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/pl.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   697 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/pt.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   717 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/pt_BR.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   717 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/pt_PT.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   725 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/ro.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   719 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/ru.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   844 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/sk.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   753 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/sv.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   687 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/th.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   934 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/tr.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   695 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/uk.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   874 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/vi.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   743 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/zh_CN.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   702 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/GoogleSignIn.bundle/zh_TW.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:43 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff   674 Mar 10 11:43 GoogleSignIn.strings
+
+./build/ios/iphonesimulator/Runner.app/_CodeSignature:
+total 72
+drwxr-xr-x   3 nano  staff     96 Mar 10 11:43 .
+drwxr-xr-x  33 nano  staff   1056 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff  34131 Mar 10 11:43 CodeResources
+
+./build/ios/iphonesimulator/Runner.app/flutter_assets:
+total 7792
+drwxr-xr-x   8 nano  staff      256 Mar 10 11:43 .
+drwxr-xr-x  33 nano  staff     1056 Mar 10 11:43 ..
+-rw-r--r--   1 nano  staff      109 Mar 10 11:43 AssetManifest.json
+-rw-r--r--   1 nano  staff      208 Mar 10 11:43 FontManifest.json
+-rw-r--r--   1 nano  staff   924418 Mar 10 11:43 LICENSE
+drwxr-xr-x   3 nano  staff       96 Mar 10 11:43 fonts
+drwxr-xr-x   3 nano  staff       96 Mar 10 11:43 packages
+-rw-r--r--   1 nano  staff  3054375 Mar 10 11:43 snapshot_blob.bin
+
+./build/ios/iphonesimulator/Runner.app/flutter_assets/fonts:
+total 264
+drwxr-xr-x  3 nano  staff      96 Mar 10 11:43 .
+drwxr-xr-x  8 nano  staff     256 Mar 10 11:43 ..
+-rw-r--r--  1 nano  staff  134640 Mar 10 11:43 MaterialIcons-Regular.ttf
+
+./build/ios/iphonesimulator/Runner.app/flutter_assets/packages:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:43 .
+drwxr-xr-x  8 nano  staff  256 Mar 10 11:43 ..
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:43 cupertino_icons
+
+./build/ios/iphonesimulator/Runner.app/flutter_assets/packages/cupertino_icons:
+total 0
+drwxr-xr-x  3 nano  staff  96 Mar 10 11:43 .
+drwxr-xr-x  3 nano  staff  96 Mar 10 11:43 ..
+drwxr-xr-x  3 nano  staff  96 Mar 10 11:43 assets
+
+./build/ios/iphonesimulator/Runner.app/flutter_assets/packages/cupertino_icons/assets:
+total 192
+drwxr-xr-x  3 nano  staff     96 Mar 10 11:43 .
+drwxr-xr-x  3 nano  staff     96 Mar 10 11:43 ..
+-rw-r--r--  1 nano  staff  97680 Mar 10 11:43 CupertinoIcons.ttf
+
+./ios:
+total 48
+drwxr-xr-x  13 nano  staff   416 Mar 10 12:14 .
+drwxr-xr-x  19 nano  staff   608 Mar 10 13:35 ..
+-rw-r--r--@  1 nano  staff  6148 Mar 10 12:14 .DS_Store
+	com.apple.FinderInfo	  32 
+-rw-r--r--   1 nano  staff   530 Mar 10 11:29 .gitignore
+drwxr-xr-x  10 nano  staff   320 Mar 10 13:34 Flutter
+drwxr-xr-x   2 nano  staff    64 Mar 10 11:35 Frameworks
+-rw-r--r--   1 nano  staff  2174 Mar  8 01:52 Podfile
+-rw-r--r--   1 nano  staff  3136 Mar 10 13:32 Podfile.lock
+drwxr-xr-x  18 nano  staff   576 Mar 10 13:34 Pods
+drwxr-xr-x  11 nano  staff   352 Mar 10 13:31 Runner
+drwxr-xr-x@  5 nano  staff   160 Mar 10 12:18 Runner.xcodeproj
+	com.apple.FinderInfo	  32 
+	com.apple.lastuseddate#PS	  16 
+drwxr-xr-x@  4 nano  staff   128 Mar 10 12:17 Runner.xcworkspace
+	com.apple.FinderInfo	  32 
+	com.apple.lastuseddate#PS	  16 
+-rw-r--r--   1 nano  staff    15 Mar 10 13:34 ServiceDefinitions.json
+
+./ios/Flutter:
+total 2544
+drwxr-xr-x  10 nano  staff      320 Mar 10 13:34 .
+drwxr-xr-x  13 nano  staff      416 Mar 10 12:14 ..
+drwxr-xr-x   4 nano  staff      128 Mar 10 13:34 App.framework
+-rw-r--r--@  1 nano  staff      893 Mar 10 11:29 AppFrameworkInfo.plist
+	com.apple.lastuseddate#PS	     16 
+-rw-r--r--   1 nano  staff      107 Mar 10 11:33 Debug.xcconfig
+drwxr-xr-x   7 nano  staff      224 Mar 10 13:34 Flutter.framework
+-rw-r--r--@  1 nano  staff      411 Mar 10 13:34 Generated.xcconfig
+	com.apple.lastuseddate#PS	     16 
+-rw-r--r--@  1 nano  staff      109 Mar 10 11:33 Release.xcconfig
+	com.apple.lastuseddate#PS	     16 
+-rw-r--r--   1 nano  staff  1284852 Mar 10 13:34 app.flx
+drwxr-xr-x   8 nano  staff      256 Mar 10 13:34 flutter_assets
+
+./ios/Flutter/App.framework:
+total 24
+drwxr-xr-x   4 nano  staff   128 Mar 10 13:34 .
+drwxr-xr-x  10 nano  staff   320 Mar 10 13:34 ..
+-rwxr-xr-x   1 nano  staff  4144 Mar 10 13:34 App
+-rw-r--r--@  1 nano  staff   893 Mar 10 13:34 Info.plist
+	com.apple.lastuseddate#PS	  16 
+
+./ios/Flutter/Flutter.framework:
+total 100624
+drwxr-xr-x   7 nano  staff       224 Mar 10 13:34 .
+drwxr-xr-x  10 nano  staff       320 Mar 10 13:34 ..
+-r-xr-xr-x   1 nano  staff  44885160 Mar 10 13:34 Flutter
+drwxr-xr-x  14 nano  staff       448 Mar 10 13:34 Headers
+-r--r--r--   1 nano  staff       867 Mar 10 13:34 Info.plist
+drwxr-xr-x   3 nano  staff        96 Mar 10 13:34 Modules
+-r--r--r--   1 nano  staff   6623360 Mar 10 13:34 icudtl.dat
+
+./ios/Flutter/Flutter.framework/Headers:
+total 144
+drwxr-xr-x  14 nano  staff    448 Mar 10 13:34 .
+drwxr-xr-x   7 nano  staff    224 Mar 10 13:34 ..
+-r--r--r--   1 nano  staff   1823 Mar 10 13:34 Flutter.h
+-r--r--r--   1 nano  staff   1564 Mar 10 13:34 FlutterAppDelegate.h
+-r--r--r--   1 nano  staff   2553 Mar 10 13:34 FlutterBinaryMessenger.h
+-r--r--r--   1 nano  staff  12839 Mar 10 13:34 FlutterChannels.h
+-r--r--r--   1 nano  staff  11599 Mar 10 13:34 FlutterCodecs.h
+-r--r--r--   1 nano  staff   1572 Mar 10 13:34 FlutterDartProject.h
+-r--r--r--   1 nano  staff   1101 Mar 10 13:34 FlutterHeadlessDartRunner.h
+-r--r--r--   1 nano  staff   1433 Mar 10 13:34 FlutterMacros.h
+-r--r--r--   1 nano  staff    261 Mar 10 13:34 FlutterNavigationController.h
+-r--r--r--   1 nano  staff   6788 Mar 10 13:34 FlutterPlugin.h
+-r--r--r--   1 nano  staff    731 Mar 10 13:34 FlutterTexture.h
+-r--r--r--   1 nano  staff   1018 Mar 10 13:34 FlutterViewController.h
+
+./ios/Flutter/Flutter.framework/Modules:
+total 8
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:34 .
+drwxr-xr-x  7 nano  staff  224 Mar 10 13:34 ..
+-r--r--r--  1 nano  staff   95 Mar 10 13:34 module.modulemap
+
+./ios/Flutter/flutter_assets:
+total 7792
+drwxr-xr-x   8 nano  staff      256 Mar 10 13:34 .
+drwxr-xr-x  10 nano  staff      320 Mar 10 13:34 ..
+-rw-r--r--   1 nano  staff      109 Mar 10 13:34 AssetManifest.json
+-rw-r--r--   1 nano  staff      208 Mar 10 13:34 FontManifest.json
+-rw-r--r--   1 nano  staff   924418 Mar 10 13:34 LICENSE
+drwxr-xr-x   3 nano  staff       96 Mar 10 13:34 fonts
+drwxr-xr-x   3 nano  staff       96 Mar 10 13:34 packages
+-rw-r--r--   1 nano  staff  3054375 Mar 10 13:34 snapshot_blob.bin
+
+./ios/Flutter/flutter_assets/fonts:
+total 264
+drwxr-xr-x  3 nano  staff      96 Mar 10 13:34 .
+drwxr-xr-x  8 nano  staff     256 Mar 10 13:34 ..
+-rw-r--r--  1 nano  staff  134640 Mar 10 13:34 MaterialIcons-Regular.ttf
+
+./ios/Flutter/flutter_assets/packages:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:34 .
+drwxr-xr-x  8 nano  staff  256 Mar 10 13:34 ..
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:34 cupertino_icons
+
+./ios/Flutter/flutter_assets/packages/cupertino_icons:
+total 0
+drwxr-xr-x  3 nano  staff  96 Mar 10 13:34 .
+drwxr-xr-x  3 nano  staff  96 Mar 10 13:34 ..
+drwxr-xr-x  3 nano  staff  96 Mar 10 13:34 assets
+
+./ios/Flutter/flutter_assets/packages/cupertino_icons/assets:
+total 192
+drwxr-xr-x  3 nano  staff     96 Mar 10 13:34 .
+drwxr-xr-x  3 nano  staff     96 Mar 10 13:34 ..
+-rw-r--r--  1 nano  staff  97680 Mar 10 13:34 CupertinoIcons.ttf
+
+./ios/Frameworks:
+total 0
+drwxr-xr-x   2 nano  staff   64 Mar 10 11:35 .
+drwxr-xr-x  13 nano  staff  416 Mar 10 12:14 ..
+
+./ios/Pods:
+total 8
+drwxr-xr-x  18 nano  staff   576 Mar 10 13:34 .
+drwxr-xr-x  13 nano  staff   416 Mar 10 12:14 ..
+drwxr-xr-x   4 nano  staff   128 Mar 10 13:32 .symlinks
+drwxr-xr-x   4 nano  staff   128 Mar 10 11:35 Firebase
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 FirebaseAnalytics
+drwxr-xr-x   5 nano  staff   160 Mar 10 11:35 FirebaseAuth
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 FirebaseCore
+drwxr-xr-x   5 nano  staff   160 Mar 10 11:35 FirebaseInstanceID
+drwxr-xr-x   5 nano  staff   160 Mar 10 11:35 GTMOAuth2
+drwxr-xr-x   5 nano  staff   160 Mar 10 11:35 GTMSessionFetcher
+drwxr-xr-x   7 nano  staff   224 Mar 10 11:35 GoogleSignIn
+drwxr-xr-x   7 nano  staff   224 Mar 10 11:35 GoogleToolboxForMac
+drwxr-xr-x   4 nano  staff   128 Mar 10 13:32 Headers
+drwxr-xr-x   5 nano  staff   160 Mar 10 11:35 Local Podspecs
+-rw-r--r--   1 nano  staff  3136 Mar 10 13:32 Manifest.lock
+drwxr-xr-x@  4 nano  staff   128 Mar 10 11:35 Pods.xcodeproj
+	com.apple.FinderInfo	  32 
+	com.apple.lastuseddate#PS	  16 
+drwxr-xr-x   9 nano  staff   288 Mar 10 13:32 Target Support Files
+drwxr-xr-x  11 nano  staff   352 Mar 10 11:35 nanopb
+
+./ios/Pods/.symlinks:
+total 0
+drwxr-xr-x   4 nano  staff  128 Mar 10 13:32 .
+drwxr-xr-x  18 nano  staff  576 Mar 10 13:34 ..
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:32 flutter
+drwxr-xr-x   4 nano  staff  128 Mar 10 13:32 plugins
+
+./ios/Pods/.symlinks/flutter:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:32 .
+drwxr-xr-x  4 nano  staff  128 Mar 10 13:32 ..
+lrwxr-xr-x  1 nano  staff   69 Mar 10 13:32 ios -> /Users/nano/Documents/Programs/flutter/bin/cache/artifacts/engine/ios
+
+./ios/Pods/.symlinks/plugins:
+total 0
+drwxr-xr-x  4 nano  staff  128 Mar 10 13:32 .
+drwxr-xr-x  4 nano  staff  128 Mar 10 13:32 ..
+lrwxr-xr-x  1 nano  staff   66 Mar 10 13:32 firebase_auth-0.5.0 -> /Users/nano/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.5.0
+lrwxr-xr-x  1 nano  staff   67 Mar 10 13:32 google_sign_in-3.0.0 -> /Users/nano/.pub-cache/hosted/pub.dartlang.org/google_sign_in-3.0.0
+
+./ios/Pods/Firebase:
+total 8
+drwxr-xr-x   4 nano  staff   128 Mar 10 11:35 .
+drwxr-xr-x  18 nano  staff   576 Mar 10 13:34 ..
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 Core
+-r-xr-xr-x   1 nano  staff  2268 Mar 10 11:35 README.md
+
+./ios/Pods/Firebase/Core:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:35 .
+drwxr-xr-x  4 nano  staff  128 Mar 10 11:35 ..
+drwxr-xr-x  4 nano  staff  128 Mar 10 11:35 Sources
+
+./ios/Pods/Firebase/Core/Sources:
+total 16
+drwxr-xr-x  4 nano  staff   128 Mar 10 11:35 .
+drwxr-xr-x  3 nano  staff    96 Mar 10 11:35 ..
+-r-xr-xr-x  1 nano  staff  2056 Mar 10 11:35 Firebase.h
+-r-xr-xr-x  1 nano  staff    52 Mar 10 11:35 module.modulemap
+
+./ios/Pods/FirebaseAnalytics:
+total 0
+drwxr-xr-x   3 nano  staff   96 Mar 10 11:35 .
+drwxr-xr-x  18 nano  staff  576 Mar 10 13:34 ..
+drwxr-xr-x   5 nano  staff  160 Mar 10 11:35 Frameworks
+
+./ios/Pods/FirebaseAnalytics/Frameworks:
+total 0
+drwxr-xr-x  5 nano  staff  160 Mar 10 11:35 .
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:35 ..
+drwxr-xr-x  5 nano  staff  160 Mar 10 11:35 FirebaseAnalytics.framework
+drwxr-xr-x  4 nano  staff  128 Mar 10 11:35 FirebaseCoreDiagnostics.framework
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:35 FirebaseNanoPB.framework
+
+./ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework:
+total 31448
+drwxr-xr-x   5 nano  staff       160 Mar 10 11:35 .
+drwxr-xr-x   5 nano  staff       160 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff  16099640 Mar 10 11:35 FirebaseAnalytics
+drwxr-xr-x  13 nano  staff       416 Mar 10 11:35 Headers
+drwxr-xr-x   3 nano  staff        96 Mar 10 11:35 Modules
+
+./ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers:
+total 168
+drwxr-xr-x  13 nano  staff    416 Mar 10 11:35 .
+drwxr-xr-x   5 nano  staff    160 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   2484 Mar 10 11:35 FIRAnalytics+AppDelegate.h
+-rwxr-xr-x   1 nano  staff   5799 Mar 10 11:35 FIRAnalytics.h
+-rwxr-xr-x   1 nano  staff     51 Mar 10 11:35 FIRAnalyticsConfiguration.h
+-rwxr-xr-x   1 nano  staff    371 Mar 10 11:35 FIRAnalyticsSwiftNameSupport.h
+-rwxr-xr-x   1 nano  staff     32 Mar 10 11:35 FIRApp.h
+-rwxr-xr-x   1 nano  staff     42 Mar 10 11:35 FIRConfiguration.h
+-rwxr-xr-x   1 nano  staff  21224 Mar 10 11:35 FIREventNames.h
+-rwxr-xr-x   1 nano  staff     36 Mar 10 11:35 FIROptions.h
+-rwxr-xr-x   1 nano  staff  17048 Mar 10 11:35 FIRParameterNames.h
+-rwxr-xr-x   1 nano  staff    900 Mar 10 11:35 FIRUserPropertyNames.h
+-rwxr-xr-x   1 nano  staff    301 Mar 10 11:35 FirebaseAnalytics.h
+
+./ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules:
+total 8
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:35 .
+drwxr-xr-x  5 nano  staff  160 Mar 10 11:35 ..
+-rwxr-xr-x  1 nano  staff  260 Mar 10 11:35 module.modulemap
+
+./ios/Pods/FirebaseAnalytics/Frameworks/FirebaseCoreDiagnostics.framework:
+total 4168
+drwxr-xr-x  4 nano  staff      128 Mar 10 11:35 .
+drwxr-xr-x  5 nano  staff      160 Mar 10 11:35 ..
+-rwxr-xr-x  1 nano  staff  2131672 Mar 10 11:35 FirebaseCoreDiagnostics
+drwxr-xr-x  3 nano  staff       96 Mar 10 11:35 Modules
+
+./ios/Pods/FirebaseAnalytics/Frameworks/FirebaseCoreDiagnostics.framework/Modules:
+total 8
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:35 .
+drwxr-xr-x  4 nano  staff  128 Mar 10 11:35 ..
+-rwxr-xr-x  1 nano  staff  156 Mar 10 11:35 module.modulemap
+
+./ios/Pods/FirebaseAnalytics/Frameworks/FirebaseNanoPB.framework:
+total 616
+drwxr-xr-x  3 nano  staff      96 Mar 10 11:35 .
+drwxr-xr-x  5 nano  staff     160 Mar 10 11:35 ..
+-rwxr-xr-x  1 nano  staff  312600 Mar 10 11:35 FirebaseNanoPB
+
+./ios/Pods/FirebaseAuth:
+total 24
+drwxr-xr-x   5 nano  staff   160 Mar 10 11:35 .
+drwxr-xr-x  18 nano  staff   576 Mar 10 13:34 ..
+-r-xr-xr-x   1 nano  staff  5538 Mar 10 11:35 CHANGELOG.md
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 Frameworks
+-r-xr-xr-x   1 nano  staff   616 Mar 10 11:35 README.md
+
+./ios/Pods/FirebaseAuth/Frameworks:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:35 .
+drwxr-xr-x  5 nano  staff  160 Mar 10 11:35 ..
+drwxr-xr-x  5 nano  staff  160 Mar 10 11:35 FirebaseAuth.framework
+
+./ios/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework:
+total 19216
+drwxr-xr-x   5 nano  staff      160 Mar 10 11:35 .
+drwxr-xr-x   3 nano  staff       96 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff  9837528 Mar 10 11:35 FirebaseAuth
+drwxr-xr-x  23 nano  staff      736 Mar 10 11:35 Headers
+drwxr-xr-x   3 nano  staff       96 Mar 10 11:35 Modules
+
+./ios/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers:
+total 296
+drwxr-xr-x  23 nano  staff    736 Mar 10 11:35 .
+drwxr-xr-x   5 nano  staff    160 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   3337 Mar 10 11:35 FIRActionCodeSettings.h
+-rwxr-xr-x   1 nano  staff   1735 Mar 10 11:35 FIRAdditionalUserInfo.h
+-rwxr-xr-x   1 nano  staff  35188 Mar 10 11:35 FIRAuth.h
+-rwxr-xr-x   1 nano  staff   1102 Mar 10 11:35 FIRAuthAPNSTokenType.h
+-rwxr-xr-x   1 nano  staff   1268 Mar 10 11:35 FIRAuthCredential.h
+-rwxr-xr-x   1 nano  staff   1549 Mar 10 11:35 FIRAuthDataResult.h
+-rwxr-xr-x   1 nano  staff  10754 Mar 10 11:35 FIRAuthErrors.h
+-rwxr-xr-x   1 nano  staff   2096 Mar 10 11:35 FIRAuthUIDelegate.h
+-rwxr-xr-x   1 nano  staff   1948 Mar 10 11:35 FIREmailAuthProvider.h
+-rwxr-xr-x   1 nano  staff   1472 Mar 10 11:35 FIRFacebookAuthProvider.h
+-rwxr-xr-x   1 nano  staff   1433 Mar 10 11:35 FIRGitHubAuthProvider.h
+-rwxr-xr-x   1 nano  staff   1574 Mar 10 11:35 FIRGoogleAuthProvider.h
+-rwxr-xr-x   1 nano  staff   2309 Mar 10 11:35 FIROAuthProvider.h
+-rwxr-xr-x   1 nano  staff   1036 Mar 10 11:35 FIRPhoneAuthCredential.h
+-rwxr-xr-x   1 nano  staff   5632 Mar 10 11:35 FIRPhoneAuthProvider.h
+-rwxr-xr-x   1 nano  staff   1513 Mar 10 11:35 FIRTwitterAuthProvider.h
+-rwxr-xr-x   1 nano  staff  22903 Mar 10 11:35 FIRUser.h
+-rwxr-xr-x   1 nano  staff   1701 Mar 10 11:35 FIRUserInfo.h
+-rwxr-xr-x   1 nano  staff   1411 Mar 10 11:35 FIRUserMetadata.h
+-rwxr-xr-x   1 nano  staff    610 Mar 10 11:35 FirebaseAuth.h
+-rwxr-xr-x   1 nano  staff    459 Mar 10 11:35 FirebaseAuthVersion.h
+
+./ios/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules:
+total 8
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:35 .
+drwxr-xr-x  5 nano  staff  160 Mar 10 11:35 ..
+-rwxr-xr-x  1 nano  staff  246 Mar 10 11:35 module.modulemap
+
+./ios/Pods/FirebaseCore:
+total 0
+drwxr-xr-x   3 nano  staff   96 Mar 10 11:35 .
+drwxr-xr-x  18 nano  staff  576 Mar 10 13:34 ..
+drwxr-xr-x   3 nano  staff   96 Mar 10 11:35 Frameworks
+
+./ios/Pods/FirebaseCore/Frameworks:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:35 .
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:35 ..
+drwxr-xr-x  5 nano  staff  160 Mar 10 11:35 FirebaseCore.framework
+
+./ios/Pods/FirebaseCore/Frameworks/FirebaseCore.framework:
+total 4512
+drwxr-xr-x  5 nano  staff      160 Mar 10 11:35 .
+drwxr-xr-x  3 nano  staff       96 Mar 10 11:35 ..
+-rwxr-xr-x  1 nano  staff  2309624 Mar 10 11:35 FirebaseCore
+drwxr-xr-x  8 nano  staff      256 Mar 10 11:35 Headers
+drwxr-xr-x  3 nano  staff       96 Mar 10 11:35 Modules
+
+./ios/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers:
+total 64
+drwxr-xr-x  8 nano  staff   256 Mar 10 11:35 .
+drwxr-xr-x  5 nano  staff   160 Mar 10 11:35 ..
+-rwxr-xr-x  1 nano  staff  1634 Mar 10 11:35 FIRAnalyticsConfiguration.h
+-rwxr-xr-x  1 nano  staff  4816 Mar 10 11:35 FIRApp.h
+-rwxr-xr-x  1 nano  staff  2864 Mar 10 11:35 FIRConfiguration.h
+-rwxr-xr-x  1 nano  staff  1244 Mar 10 11:35 FIRLoggerLevel.h
+-rwxr-xr-x  1 nano  staff  4714 Mar 10 11:35 FIROptions.h
+-rwxr-xr-x  1 nano  staff   136 Mar 10 11:35 FirebaseCore.h
+
+./ios/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules:
+total 8
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:35 .
+drwxr-xr-x  5 nano  staff  160 Mar 10 11:35 ..
+-rwxr-xr-x  1 nano  staff  180 Mar 10 11:35 module.modulemap
+
+./ios/Pods/FirebaseInstanceID:
+total 16
+drwxr-xr-x   5 nano  staff   160 Mar 10 11:35 .
+drwxr-xr-x  18 nano  staff   576 Mar 10 13:34 ..
+-r-xr-xr-x   1 nano  staff  3547 Mar 10 11:35 CHANGELOG.md
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 Frameworks
+-r-xr-xr-x   1 nano  staff   380 Mar 10 11:35 README.md
+
+./ios/Pods/FirebaseInstanceID/Frameworks:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:35 .
+drwxr-xr-x  5 nano  staff  160 Mar 10 11:35 ..
+drwxr-xr-x  5 nano  staff  160 Mar 10 11:35 FirebaseInstanceID.framework
+
+./ios/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework:
+total 8328
+drwxr-xr-x  5 nano  staff      160 Mar 10 11:35 .
+drwxr-xr-x  3 nano  staff       96 Mar 10 11:35 ..
+-rwxr-xr-x  1 nano  staff  4262576 Mar 10 11:35 FirebaseInstanceID
+drwxr-xr-x  4 nano  staff      128 Mar 10 11:35 Headers
+drwxr-xr-x  3 nano  staff       96 Mar 10 11:35 Modules
+
+./ios/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers:
+total 32
+drwxr-xr-x  4 nano  staff    128 Mar 10 11:35 .
+drwxr-xr-x  5 nano  staff    160 Mar 10 11:35 ..
+-rwxr-xr-x  1 nano  staff  11586 Mar 10 11:35 FIRInstanceID.h
+-rwxr-xr-x  1 nano  staff     26 Mar 10 11:35 FirebaseInstanceID.h
+
+./ios/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules:
+total 8
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:35 .
+drwxr-xr-x  5 nano  staff  160 Mar 10 11:35 ..
+-rwxr-xr-x  1 nano  staff  192 Mar 10 11:35 module.modulemap
+
+./ios/Pods/GTMOAuth2:
+total 32
+drwxr-xr-x   5 nano  staff    160 Mar 10 11:35 .
+drwxr-xr-x  18 nano  staff    576 Mar 10 13:34 ..
+-rw-r--r--   1 nano  staff  11358 Mar 10 11:35 LICENSE
+-rw-r--r--   1 nano  staff   1679 Mar 10 11:35 README.md
+drwxr-xr-x   7 nano  staff    224 Mar 10 11:35 Source
+
+./ios/Pods/GTMOAuth2/Source:
+total 216
+drwxr-xr-x  7 nano  staff    224 Mar 10 11:35 .
+drwxr-xr-x  5 nano  staff    160 Mar 10 11:35 ..
+-r--r--r--  1 nano  staff  14905 Mar 10 11:35 GTMOAuth2Authentication.h
+-r--r--r--  1 nano  staff  45740 Mar 10 11:35 GTMOAuth2Authentication.m
+-r--r--r--  1 nano  staff   6675 Mar 10 11:35 GTMOAuth2SignIn.h
+-r--r--r--  1 nano  staff  34446 Mar 10 11:35 GTMOAuth2SignIn.m
+drwxr-xr-x  5 nano  staff    160 Mar 10 11:35 Touch
+
+./ios/Pods/GTMOAuth2/Source/Touch:
+total 144
+drwxr-xr-x  5 nano  staff    160 Mar 10 11:35 .
+drwxr-xr-x  7 nano  staff    224 Mar 10 11:35 ..
+-r--r--r--  1 nano  staff  15515 Mar 10 11:35 GTMOAuth2ViewControllerTouch.h
+-r--r--r--  1 nano  staff  40385 Mar 10 11:35 GTMOAuth2ViewControllerTouch.m
+-rw-r--r--  1 nano  staff  16358 Mar 10 11:35 GTMOAuth2ViewTouch.xib
+
+./ios/Pods/GTMSessionFetcher:
+total 32
+drwxr-xr-x   5 nano  staff    160 Mar 10 11:35 .
+drwxr-xr-x  18 nano  staff    576 Mar 10 13:34 ..
+-rw-r--r--   1 nano  staff  11358 Mar 10 11:35 LICENSE
+-rw-r--r--   1 nano  staff   1158 Mar 10 11:35 README.md
+drwxr-xr-x  16 nano  staff    512 Mar 10 11:35 Source
+
+./ios/Pods/GTMSessionFetcher/Source:
+total 936
+drwxr-xr-x  16 nano  staff     512 Mar 10 11:35 .
+drwxr-xr-x   5 nano  staff     160 Mar 10 11:35 ..
+-r--r--r--   1 nano  staff    1863 Mar 10 11:35 GTMGatherInputStream.h
+-r--r--r--   1 nano  staff    4735 Mar 10 11:35 GTMGatherInputStream.m
+-r--r--r--   1 nano  staff    5508 Mar 10 11:35 GTMMIMEDocument.h
+-r--r--r--   1 nano  staff   24072 Mar 10 11:35 GTMMIMEDocument.m
+-r--r--r--   1 nano  staff    1545 Mar 10 11:35 GTMReadMonitorInputStream.h
+-r--r--r--   1 nano  staff    5812 Mar 10 11:35 GTMReadMonitorInputStream.m
+-r--r--r--   1 nano  staff   59936 Mar 10 11:35 GTMSessionFetcher.h
+-r--r--r--   1 nano  staff  171284 Mar 10 11:35 GTMSessionFetcher.m
+-r--r--r--   1 nano  staff    4088 Mar 10 11:35 GTMSessionFetcherLogging.h
+-r--r--r--   1 nano  staff   39922 Mar 10 11:35 GTMSessionFetcherLogging.m
+-r--r--r--   1 nano  staff    8853 Mar 10 11:35 GTMSessionFetcherService.h
+-r--r--r--   1 nano  staff   45826 Mar 10 11:35 GTMSessionFetcherService.m
+-r--r--r--   1 nano  staff    7801 Mar 10 11:35 GTMSessionUploadFetcher.h
+-r--r--r--   1 nano  staff   73215 Mar 10 11:35 GTMSessionUploadFetcher.m
+
+./ios/Pods/GoogleSignIn:
+total 24
+drwxr-xr-x   7 nano  staff   224 Mar 10 11:35 .
+drwxr-xr-x  18 nano  staff   576 Mar 10 13:34 ..
+-r-xr-xr-x   1 nano  staff   156 Mar 10 11:35 .cocoapods.yml
+-r-xr-xr-x   1 nano  staff  4022 Mar 10 11:35 CHANGELOG.md
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 Frameworks
+-r-xr-xr-x   1 nano  staff   684 Mar 10 11:35 README.md
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 Resources
+
+./ios/Pods/GoogleSignIn/Frameworks:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:35 .
+drwxr-xr-x  7 nano  staff  224 Mar 10 11:35 ..
+drwxr-xr-x  5 nano  staff  160 Mar 10 11:35 GoogleSignIn.framework
+
+./ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework:
+total 5808
+drwxr-xr-x  5 nano  staff      160 Mar 10 11:35 .
+drwxr-xr-x  3 nano  staff       96 Mar 10 11:35 ..
+-rwxr-xr-x  1 nano  staff  2970248 Mar 10 11:35 GoogleSignIn
+drwxr-xr-x  8 nano  staff      256 Mar 10 11:35 Headers
+drwxr-xr-x  3 nano  staff       96 Mar 10 11:35 Modules
+
+./ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers:
+total 56
+drwxr-xr-x  8 nano  staff   256 Mar 10 11:35 .
+drwxr-xr-x  5 nano  staff   160 Mar 10 11:35 ..
+-rwxr-xr-x  1 nano  staff  2816 Mar 10 11:35 GIDAuthentication.h
+-rwxr-xr-x  1 nano  staff  1146 Mar 10 11:35 GIDGoogleUser.h
+-rwxr-xr-x  1 nano  staff   942 Mar 10 11:35 GIDProfileData.h
+-rwxr-xr-x  1 nano  staff  7982 Mar 10 11:35 GIDSignIn.h
+-rwxr-xr-x  1 nano  staff  1814 Mar 10 11:35 GIDSignInButton.h
+-rwxr-xr-x  1 nano  staff   133 Mar 10 11:35 GoogleSignIn.h
+
+./ios/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Modules:
+total 8
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:35 .
+drwxr-xr-x  5 nano  staff  160 Mar 10 11:35 ..
+-rwxr-xr-x  1 nano  staff  263 Mar 10 11:35 module.modulemap
+
+./ios/Pods/GoogleSignIn/Resources:
+total 0
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x   7 nano  staff   224 Mar 10 11:35 ..
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 GoogleSignIn.bundle
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle:
+total 288
+drwxr-xr-x  43 nano  staff    1376 Mar 10 11:35 .
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff     729 Mar 10 11:35 Info.plist
+-rwxr-xr-x   1 nano  staff  127744 Mar 10 11:35 Roboto-Bold.ttf
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ar.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ca.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 cs.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 da.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 de.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 el.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 en.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 en_GB.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 es.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 es_MX.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 fi.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 fr.lproj
+-rwxr-xr-x   1 nano  staff     572 Mar 10 11:35 google.png
+-rwxr-xr-x   1 nano  staff     987 Mar 10 11:35 google@2x.png
+-rwxr-xr-x   1 nano  staff    1622 Mar 10 11:35 google@3x.png
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 he.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 hr.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 hu.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 id.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 it.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ja.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ko.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ms.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 nb.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 nl.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 pl.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 pt.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 pt_BR.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 pt_PT.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ro.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 ru.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 sk.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 sv.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 th.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 tr.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 uk.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 vi.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 zh_CN.lproj
+drwxr-xr-x   3 nano  staff      96 Mar 10 11:35 zh_TW.lproj
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ar.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   823 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ca.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   766 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/cs.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   735 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/da.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   670 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/de.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   723 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/el.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   871 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/en.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   658 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/en_GB.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   658 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/es.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   724 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/es_MX.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   665 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/fi.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   709 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/fr.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   728 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/he.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   748 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/hr.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   697 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/hu.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   748 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/id.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   654 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/it.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   671 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ja.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   765 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ko.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   719 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ms.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   687 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/nb.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   670 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/nl.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   683 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/pl.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   697 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/pt.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   717 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/pt_BR.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   717 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/pt_PT.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   725 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ro.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   719 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ru.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   844 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/sk.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   753 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/sv.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   687 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/th.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   934 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/tr.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   695 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/uk.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   874 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/vi.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   743 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/zh_CN.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   702 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/zh_TW.lproj:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:35 .
+drwxr-xr-x  43 nano  staff  1376 Mar 10 11:35 ..
+-rwxr-xr-x   1 nano  staff   674 Mar 10 11:35 GoogleSignIn.strings
+
+./ios/Pods/GoogleToolboxForMac:
+total 64
+drwxr-xr-x   7 nano  staff    224 Mar 10 11:35 .
+drwxr-xr-x  18 nano  staff    576 Mar 10 13:34 ..
+drwxr-xr-x   5 nano  staff    160 Mar 10 11:35 DebugUtils
+drwxr-xr-x   8 nano  staff    256 Mar 10 11:35 Foundation
+-r--r--r--   1 nano  staff  13959 Mar 10 11:35 GTMDefines.h
+-rw-r--r--   1 nano  staff  11358 Mar 10 11:35 LICENSE
+-rw-r--r--   1 nano  staff    598 Mar 10 11:35 README.md
+
+./ios/Pods/GoogleToolboxForMac/DebugUtils:
+total 24
+drwxr-xr-x  5 nano  staff   160 Mar 10 11:35 .
+drwxr-xr-x  7 nano  staff   224 Mar 10 11:35 ..
+-r--r--r--  1 nano  staff  3998 Mar 10 11:35 GTMDebugSelectorValidation.h
+-r--r--r--  1 nano  staff  1753 Mar 10 11:35 GTMDebugThreadValidation.h
+-r--r--r--  1 nano  staff  2528 Mar 10 11:35 GTMMethodCheck.h
+
+./ios/Pods/GoogleToolboxForMac/Foundation:
+total 104
+drwxr-xr-x  8 nano  staff    256 Mar 10 11:35 .
+drwxr-xr-x  7 nano  staff    224 Mar 10 11:35 ..
+-r--r--r--  1 nano  staff   9626 Mar 10 11:35 GTMNSData+zlib.h
+-r--r--r--  1 nano  staff  20740 Mar 10 11:35 GTMNSData+zlib.m
+-r--r--r--  1 nano  staff   1652 Mar 10 11:35 GTMNSDictionary+URLArguments.h
+-r--r--r--  1 nano  staff   2797 Mar 10 11:35 GTMNSDictionary+URLArguments.m
+-r--r--r--  1 nano  staff   1750 Mar 10 11:35 GTMNSString+URLArguments.h
+-r--r--r--  1 nano  staff   1859 Mar 10 11:35 GTMNSString+URLArguments.m
+
+./ios/Pods/Headers:
+total 0
+drwxr-xr-x   4 nano  staff  128 Mar 10 13:32 .
+drwxr-xr-x  18 nano  staff  576 Mar 10 13:34 ..
+drwxr-xr-x   9 nano  staff  288 Mar 10 13:32 Private
+drwxr-xr-x  15 nano  staff  480 Mar 10 13:32 Public
+
+./ios/Pods/Headers/Private:
+total 0
+drwxr-xr-x  9 nano  staff  288 Mar 10 13:32 .
+drwxr-xr-x  4 nano  staff  128 Mar 10 13:32 ..
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:32 Firebase
+drwxr-xr-x  5 nano  staff  160 Mar 10 13:32 GTMOAuth2
+drwxr-xr-x  9 nano  staff  288 Mar 10 13:32 GTMSessionFetcher
+drwxr-xr-x  9 nano  staff  288 Mar 10 13:32 GoogleToolboxForMac
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:32 firebase_auth
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:32 google_sign_in
+drwxr-xr-x  6 nano  staff  192 Mar 10 13:32 nanopb
+
+./ios/Pods/Headers/Private/Firebase:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:32 .
+drwxr-xr-x  9 nano  staff  288 Mar 10 13:32 ..
+lrwxr-xr-x  1 nano  staff   41 Mar 10 13:32 Firebase.h -> ../../../Firebase/Core/Sources/Firebase.h
+
+./ios/Pods/Headers/Private/GTMOAuth2:
+total 0
+drwxr-xr-x  5 nano  staff  160 Mar 10 13:32 .
+drwxr-xr-x  9 nano  staff  288 Mar 10 13:32 ..
+lrwxr-xr-x  1 nano  staff   51 Mar 10 13:32 GTMOAuth2Authentication.h -> ../../../GTMOAuth2/Source/GTMOAuth2Authentication.h
+lrwxr-xr-x  1 nano  staff   43 Mar 10 13:32 GTMOAuth2SignIn.h -> ../../../GTMOAuth2/Source/GTMOAuth2SignIn.h
+lrwxr-xr-x  1 nano  staff   62 Mar 10 13:32 GTMOAuth2ViewControllerTouch.h -> ../../../GTMOAuth2/Source/Touch/GTMOAuth2ViewControllerTouch.h
+
+./ios/Pods/Headers/Private/GTMSessionFetcher:
+total 0
+drwxr-xr-x  9 nano  staff  288 Mar 10 13:32 .
+drwxr-xr-x  9 nano  staff  288 Mar 10 13:32 ..
+lrwxr-xr-x  1 nano  staff   56 Mar 10 13:32 GTMGatherInputStream.h -> ../../../GTMSessionFetcher/Source/GTMGatherInputStream.h
+lrwxr-xr-x  1 nano  staff   51 Mar 10 13:32 GTMMIMEDocument.h -> ../../../GTMSessionFetcher/Source/GTMMIMEDocument.h
+lrwxr-xr-x  1 nano  staff   61 Mar 10 13:32 GTMReadMonitorInputStream.h -> ../../../GTMSessionFetcher/Source/GTMReadMonitorInputStream.h
+lrwxr-xr-x  1 nano  staff   53 Mar 10 13:32 GTMSessionFetcher.h -> ../../../GTMSessionFetcher/Source/GTMSessionFetcher.h
+lrwxr-xr-x  1 nano  staff   60 Mar 10 13:32 GTMSessionFetcherLogging.h -> ../../../GTMSessionFetcher/Source/GTMSessionFetcherLogging.h
+lrwxr-xr-x  1 nano  staff   60 Mar 10 13:32 GTMSessionFetcherService.h -> ../../../GTMSessionFetcher/Source/GTMSessionFetcherService.h
+lrwxr-xr-x  1 nano  staff   59 Mar 10 13:32 GTMSessionUploadFetcher.h -> ../../../GTMSessionFetcher/Source/GTMSessionUploadFetcher.h
+
+./ios/Pods/Headers/Private/GoogleToolboxForMac:
+total 0
+drwxr-xr-x  9 nano  staff  288 Mar 10 13:32 .
+drwxr-xr-x  9 nano  staff  288 Mar 10 13:32 ..
+lrwxr-xr-x  1 nano  staff   68 Mar 10 13:32 GTMDebugSelectorValidation.h -> ../../../GoogleToolboxForMac/DebugUtils/GTMDebugSelectorValidation.h
+lrwxr-xr-x  1 nano  staff   66 Mar 10 13:32 GTMDebugThreadValidation.h -> ../../../GoogleToolboxForMac/DebugUtils/GTMDebugThreadValidation.h
+lrwxr-xr-x  1 nano  staff   41 Mar 10 13:32 GTMDefines.h -> ../../../GoogleToolboxForMac/GTMDefines.h
+lrwxr-xr-x  1 nano  staff   56 Mar 10 13:32 GTMMethodCheck.h -> ../../../GoogleToolboxForMac/DebugUtils/GTMMethodCheck.h
+lrwxr-xr-x  1 nano  staff   56 Mar 10 13:32 GTMNSData+zlib.h -> ../../../GoogleToolboxForMac/Foundation/GTMNSData+zlib.h
+lrwxr-xr-x  1 nano  staff   70 Mar 10 13:32 GTMNSDictionary+URLArguments.h -> ../../../GoogleToolboxForMac/Foundation/GTMNSDictionary+URLArguments.h
+lrwxr-xr-x  1 nano  staff   66 Mar 10 13:32 GTMNSString+URLArguments.h -> ../../../GoogleToolboxForMac/Foundation/GTMNSString+URLArguments.h
+
+./ios/Pods/Headers/Private/firebase_auth:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:32 .
+drwxr-xr-x  9 nano  staff  288 Mar 10 13:32 ..
+lrwxr-xr-x  1 nano  staff   79 Mar 10 13:32 FirebaseAuthPlugin.h -> ../../../.symlinks/plugins/firebase_auth-0.5.0/ios/Classes/FirebaseAuthPlugin.h
+
+./ios/Pods/Headers/Private/google_sign_in:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:32 .
+drwxr-xr-x  9 nano  staff  288 Mar 10 13:32 ..
+lrwxr-xr-x  1 nano  staff   80 Mar 10 13:32 GoogleSignInPlugin.h -> ../../../.symlinks/plugins/google_sign_in-3.0.0/ios/Classes/GoogleSignInPlugin.h
+
+./ios/Pods/Headers/Private/nanopb:
+total 0
+drwxr-xr-x  6 nano  staff  192 Mar 10 13:32 .
+drwxr-xr-x  9 nano  staff  288 Mar 10 13:32 ..
+lrwxr-xr-x  1 nano  staff   20 Mar 10 13:32 pb.h -> ../../../nanopb/pb.h
+lrwxr-xr-x  1 nano  staff   27 Mar 10 13:32 pb_common.h -> ../../../nanopb/pb_common.h
+lrwxr-xr-x  1 nano  staff   27 Mar 10 13:32 pb_decode.h -> ../../../nanopb/pb_decode.h
+lrwxr-xr-x  1 nano  staff   27 Mar 10 13:32 pb_encode.h -> ../../../nanopb/pb_encode.h
+
+./ios/Pods/Headers/Public:
+total 0
+drwxr-xr-x  15 nano  staff  480 Mar 10 13:32 .
+drwxr-xr-x   4 nano  staff  128 Mar 10 13:32 ..
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:34 Firebase
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:32 FirebaseAnalytics
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:32 FirebaseAuth
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:34 FirebaseCore
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:34 FirebaseInstanceID
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:34 Flutter
+drwxr-xr-x   5 nano  staff  160 Mar 10 13:32 GTMOAuth2
+drwxr-xr-x   9 nano  staff  288 Mar 10 13:32 GTMSessionFetcher
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:34 GoogleSignIn
+drwxr-xr-x   9 nano  staff  288 Mar 10 13:32 GoogleToolboxForMac
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:32 firebase_auth
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:32 google_sign_in
+drwxr-xr-x   6 nano  staff  192 Mar 10 13:32 nanopb
+
+./ios/Pods/Headers/Public/Firebase:
+total 0
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:34 .
+drwxr-xr-x  15 nano  staff  480 Mar 10 13:32 ..
+lrwxr-xr-x   1 nano  staff   41 Mar 10 13:32 Firebase.h -> ../../../Firebase/Core/Sources/Firebase.h
+
+./ios/Pods/Headers/Public/FirebaseAnalytics:
+total 0
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:32 .
+drwxr-xr-x  15 nano  staff  480 Mar 10 13:32 ..
+drwxr-xr-x  13 nano  staff  416 Mar 10 13:32 FirebaseAnalytics
+
+./ios/Pods/Headers/Public/FirebaseAnalytics/FirebaseAnalytics:
+total 0
+drwxr-xr-x  13 nano  staff  416 Mar 10 13:32 .
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:32 ..
+lrwxr-xr-x   1 nano  staff  103 Mar 10 13:32 FIRAnalytics+AppDelegate.h -> ../../../../FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h
+lrwxr-xr-x   1 nano  staff   91 Mar 10 13:32 FIRAnalytics.h -> ../../../../FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h
+lrwxr-xr-x   1 nano  staff  104 Mar 10 13:32 FIRAnalyticsConfiguration.h -> ../../../../FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h
+lrwxr-xr-x   1 nano  staff  107 Mar 10 13:32 FIRAnalyticsSwiftNameSupport.h -> ../../../../FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h
+lrwxr-xr-x   1 nano  staff   85 Mar 10 13:32 FIRApp.h -> ../../../../FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h
+lrwxr-xr-x   1 nano  staff   95 Mar 10 13:32 FIRConfiguration.h -> ../../../../FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h
+lrwxr-xr-x   1 nano  staff   92 Mar 10 13:32 FIREventNames.h -> ../../../../FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h
+lrwxr-xr-x   1 nano  staff   89 Mar 10 13:32 FIROptions.h -> ../../../../FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h
+lrwxr-xr-x   1 nano  staff   96 Mar 10 13:32 FIRParameterNames.h -> ../../../../FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h
+lrwxr-xr-x   1 nano  staff   99 Mar 10 13:32 FIRUserPropertyNames.h -> ../../../../FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h
+lrwxr-xr-x   1 nano  staff   96 Mar 10 13:32 FirebaseAnalytics.h -> ../../../../FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h
+
+./ios/Pods/Headers/Public/FirebaseAuth:
+total 0
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:32 .
+drwxr-xr-x  15 nano  staff  480 Mar 10 13:32 ..
+drwxr-xr-x  23 nano  staff  736 Mar 10 13:32 FirebaseAuth
+
+./ios/Pods/Headers/Public/FirebaseAuth/FirebaseAuth:
+total 0
+drwxr-xr-x  23 nano  staff  736 Mar 10 13:32 .
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:32 ..
+lrwxr-xr-x   1 nano  staff   90 Mar 10 13:32 FIRActionCodeSettings.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h
+lrwxr-xr-x   1 nano  staff   90 Mar 10 13:32 FIRAdditionalUserInfo.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h
+lrwxr-xr-x   1 nano  staff   76 Mar 10 13:32 FIRAuth.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h
+lrwxr-xr-x   1 nano  staff   89 Mar 10 13:32 FIRAuthAPNSTokenType.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h
+lrwxr-xr-x   1 nano  staff   86 Mar 10 13:32 FIRAuthCredential.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h
+lrwxr-xr-x   1 nano  staff   86 Mar 10 13:32 FIRAuthDataResult.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthDataResult.h
+lrwxr-xr-x   1 nano  staff   82 Mar 10 13:32 FIRAuthErrors.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h
+lrwxr-xr-x   1 nano  staff   86 Mar 10 13:32 FIRAuthUIDelegate.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthUIDelegate.h
+lrwxr-xr-x   1 nano  staff   89 Mar 10 13:32 FIREmailAuthProvider.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h
+lrwxr-xr-x   1 nano  staff   92 Mar 10 13:32 FIRFacebookAuthProvider.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h
+lrwxr-xr-x   1 nano  staff   90 Mar 10 13:32 FIRGitHubAuthProvider.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h
+lrwxr-xr-x   1 nano  staff   90 Mar 10 13:32 FIRGoogleAuthProvider.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h
+lrwxr-xr-x   1 nano  staff   85 Mar 10 13:32 FIROAuthProvider.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIROAuthProvider.h
+lrwxr-xr-x   1 nano  staff   91 Mar 10 13:32 FIRPhoneAuthCredential.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h
+lrwxr-xr-x   1 nano  staff   89 Mar 10 13:32 FIRPhoneAuthProvider.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h
+lrwxr-xr-x   1 nano  staff   91 Mar 10 13:32 FIRTwitterAuthProvider.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h
+lrwxr-xr-x   1 nano  staff   76 Mar 10 13:32 FIRUser.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h
+lrwxr-xr-x   1 nano  staff   80 Mar 10 13:32 FIRUserInfo.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h
+lrwxr-xr-x   1 nano  staff   84 Mar 10 13:32 FIRUserMetadata.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserMetadata.h
+lrwxr-xr-x   1 nano  staff   81 Mar 10 13:32 FirebaseAuth.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h
+lrwxr-xr-x   1 nano  staff   88 Mar 10 13:32 FirebaseAuthVersion.h -> ../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h
+
+./ios/Pods/Headers/Public/FirebaseCore:
+total 0
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:34 .
+drwxr-xr-x  15 nano  staff  480 Mar 10 13:32 ..
+drwxr-xr-x   8 nano  staff  256 Mar 10 13:32 FirebaseCore
+
+./ios/Pods/Headers/Public/FirebaseCore/FirebaseCore:
+total 0
+drwxr-xr-x  8 nano  staff  256 Mar 10 13:32 .
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:34 ..
+lrwxr-xr-x  1 nano  staff   94 Mar 10 13:32 FIRAnalyticsConfiguration.h -> ../../../../FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h
+lrwxr-xr-x  1 nano  staff   75 Mar 10 13:32 FIRApp.h -> ../../../../FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h
+lrwxr-xr-x  1 nano  staff   85 Mar 10 13:32 FIRConfiguration.h -> ../../../../FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h
+lrwxr-xr-x  1 nano  staff   83 Mar 10 13:32 FIRLoggerLevel.h -> ../../../../FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h
+lrwxr-xr-x  1 nano  staff   79 Mar 10 13:32 FIROptions.h -> ../../../../FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h
+lrwxr-xr-x  1 nano  staff   81 Mar 10 13:32 FirebaseCore.h -> ../../../../FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h
+
+./ios/Pods/Headers/Public/FirebaseInstanceID:
+total 0
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:34 .
+drwxr-xr-x  15 nano  staff  480 Mar 10 13:32 ..
+drwxr-xr-x   4 nano  staff  128 Mar 10 13:32 FirebaseInstanceID
+
+./ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID:
+total 0
+drwxr-xr-x  4 nano  staff  128 Mar 10 13:32 .
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:34 ..
+lrwxr-xr-x  1 nano  staff   94 Mar 10 13:32 FIRInstanceID.h -> ../../../../FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h
+lrwxr-xr-x  1 nano  staff   99 Mar 10 13:32 FirebaseInstanceID.h -> ../../../../FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h
+
+./ios/Pods/Headers/Public/Flutter:
+total 0
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:34 .
+drwxr-xr-x  15 nano  staff  480 Mar 10 13:32 ..
+drwxr-xr-x  14 nano  staff  448 Mar 10 13:32 Flutter
+
+./ios/Pods/Headers/Public/Flutter/Flutter:
+total 0
+drwxr-xr-x  14 nano  staff  448 Mar 10 13:32 .
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:34 ..
+lrwxr-xr-x   1 nano  staff  110 Mar 10 13:32 Flutter.h -> ../../../../../../../../../Programs/flutter/bin/cache/artifacts/engine/ios/Flutter.framework/Headers/Flutter.h
+lrwxr-xr-x   1 nano  staff  121 Mar 10 13:32 FlutterAppDelegate.h -> ../../../../../../../../../Programs/flutter/bin/cache/artifacts/engine/ios/Flutter.framework/Headers/FlutterAppDelegate.h
+lrwxr-xr-x   1 nano  staff  125 Mar 10 13:32 FlutterBinaryMessenger.h -> ../../../../../../../../../Programs/flutter/bin/cache/artifacts/engine/ios/Flutter.framework/Headers/FlutterBinaryMessenger.h
+lrwxr-xr-x   1 nano  staff  118 Mar 10 13:32 FlutterChannels.h -> ../../../../../../../../../Programs/flutter/bin/cache/artifacts/engine/ios/Flutter.framework/Headers/FlutterChannels.h
+lrwxr-xr-x   1 nano  staff  116 Mar 10 13:32 FlutterCodecs.h -> ../../../../../../../../../Programs/flutter/bin/cache/artifacts/engine/ios/Flutter.framework/Headers/FlutterCodecs.h
+lrwxr-xr-x   1 nano  staff  121 Mar 10 13:32 FlutterDartProject.h -> ../../../../../../../../../Programs/flutter/bin/cache/artifacts/engine/ios/Flutter.framework/Headers/FlutterDartProject.h
+lrwxr-xr-x   1 nano  staff  128 Mar 10 13:32 FlutterHeadlessDartRunner.h -> ../../../../../../../../../Programs/flutter/bin/cache/artifacts/engine/ios/Flutter.framework/Headers/FlutterHeadlessDartRunner.h
+lrwxr-xr-x   1 nano  staff  116 Mar 10 13:32 FlutterMacros.h -> ../../../../../../../../../Programs/flutter/bin/cache/artifacts/engine/ios/Flutter.framework/Headers/FlutterMacros.h
+lrwxr-xr-x   1 nano  staff  130 Mar 10 13:32 FlutterNavigationController.h -> ../../../../../../../../../Programs/flutter/bin/cache/artifacts/engine/ios/Flutter.framework/Headers/FlutterNavigationController.h
+lrwxr-xr-x   1 nano  staff  116 Mar 10 13:32 FlutterPlugin.h -> ../../../../../../../../../Programs/flutter/bin/cache/artifacts/engine/ios/Flutter.framework/Headers/FlutterPlugin.h
+lrwxr-xr-x   1 nano  staff  117 Mar 10 13:32 FlutterTexture.h -> ../../../../../../../../../Programs/flutter/bin/cache/artifacts/engine/ios/Flutter.framework/Headers/FlutterTexture.h
+lrwxr-xr-x   1 nano  staff  124 Mar 10 13:32 FlutterViewController.h -> ../../../../../../../../../Programs/flutter/bin/cache/artifacts/engine/ios/Flutter.framework/Headers/FlutterViewController.h
+
+./ios/Pods/Headers/Public/GTMOAuth2:
+total 0
+drwxr-xr-x   5 nano  staff  160 Mar 10 13:32 .
+drwxr-xr-x  15 nano  staff  480 Mar 10 13:32 ..
+lrwxr-xr-x   1 nano  staff   51 Mar 10 13:32 GTMOAuth2Authentication.h -> ../../../GTMOAuth2/Source/GTMOAuth2Authentication.h
+lrwxr-xr-x   1 nano  staff   43 Mar 10 13:32 GTMOAuth2SignIn.h -> ../../../GTMOAuth2/Source/GTMOAuth2SignIn.h
+lrwxr-xr-x   1 nano  staff   62 Mar 10 13:32 GTMOAuth2ViewControllerTouch.h -> ../../../GTMOAuth2/Source/Touch/GTMOAuth2ViewControllerTouch.h
+
+./ios/Pods/Headers/Public/GTMSessionFetcher:
+total 0
+drwxr-xr-x   9 nano  staff  288 Mar 10 13:32 .
+drwxr-xr-x  15 nano  staff  480 Mar 10 13:32 ..
+lrwxr-xr-x   1 nano  staff   56 Mar 10 13:32 GTMGatherInputStream.h -> ../../../GTMSessionFetcher/Source/GTMGatherInputStream.h
+lrwxr-xr-x   1 nano  staff   51 Mar 10 13:32 GTMMIMEDocument.h -> ../../../GTMSessionFetcher/Source/GTMMIMEDocument.h
+lrwxr-xr-x   1 nano  staff   61 Mar 10 13:32 GTMReadMonitorInputStream.h -> ../../../GTMSessionFetcher/Source/GTMReadMonitorInputStream.h
+lrwxr-xr-x   1 nano  staff   53 Mar 10 13:32 GTMSessionFetcher.h -> ../../../GTMSessionFetcher/Source/GTMSessionFetcher.h
+lrwxr-xr-x   1 nano  staff   60 Mar 10 13:32 GTMSessionFetcherLogging.h -> ../../../GTMSessionFetcher/Source/GTMSessionFetcherLogging.h
+lrwxr-xr-x   1 nano  staff   60 Mar 10 13:32 GTMSessionFetcherService.h -> ../../../GTMSessionFetcher/Source/GTMSessionFetcherService.h
+lrwxr-xr-x   1 nano  staff   59 Mar 10 13:32 GTMSessionUploadFetcher.h -> ../../../GTMSessionFetcher/Source/GTMSessionUploadFetcher.h
+
+./ios/Pods/Headers/Public/GoogleSignIn:
+total 0
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:34 .
+drwxr-xr-x  15 nano  staff  480 Mar 10 13:32 ..
+drwxr-xr-x   8 nano  staff  256 Mar 10 13:32 GoogleSignIn
+
+./ios/Pods/Headers/Public/GoogleSignIn/GoogleSignIn:
+total 0
+drwxr-xr-x  8 nano  staff  256 Mar 10 13:32 .
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:34 ..
+lrwxr-xr-x  1 nano  staff   86 Mar 10 13:32 GIDAuthentication.h -> ../../../../GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDAuthentication.h
+lrwxr-xr-x  1 nano  staff   82 Mar 10 13:32 GIDGoogleUser.h -> ../../../../GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDGoogleUser.h
+lrwxr-xr-x  1 nano  staff   83 Mar 10 13:32 GIDProfileData.h -> ../../../../GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDProfileData.h
+lrwxr-xr-x  1 nano  staff   78 Mar 10 13:32 GIDSignIn.h -> ../../../../GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDSignIn.h
+lrwxr-xr-x  1 nano  staff   84 Mar 10 13:32 GIDSignInButton.h -> ../../../../GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDSignInButton.h
+lrwxr-xr-x  1 nano  staff   81 Mar 10 13:32 GoogleSignIn.h -> ../../../../GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GoogleSignIn.h
+
+./ios/Pods/Headers/Public/GoogleToolboxForMac:
+total 0
+drwxr-xr-x   9 nano  staff  288 Mar 10 13:32 .
+drwxr-xr-x  15 nano  staff  480 Mar 10 13:32 ..
+lrwxr-xr-x   1 nano  staff   68 Mar 10 13:32 GTMDebugSelectorValidation.h -> ../../../GoogleToolboxForMac/DebugUtils/GTMDebugSelectorValidation.h
+lrwxr-xr-x   1 nano  staff   66 Mar 10 13:32 GTMDebugThreadValidation.h -> ../../../GoogleToolboxForMac/DebugUtils/GTMDebugThreadValidation.h
+lrwxr-xr-x   1 nano  staff   41 Mar 10 13:32 GTMDefines.h -> ../../../GoogleToolboxForMac/GTMDefines.h
+lrwxr-xr-x   1 nano  staff   56 Mar 10 13:32 GTMMethodCheck.h -> ../../../GoogleToolboxForMac/DebugUtils/GTMMethodCheck.h
+lrwxr-xr-x   1 nano  staff   56 Mar 10 13:32 GTMNSData+zlib.h -> ../../../GoogleToolboxForMac/Foundation/GTMNSData+zlib.h
+lrwxr-xr-x   1 nano  staff   70 Mar 10 13:32 GTMNSDictionary+URLArguments.h -> ../../../GoogleToolboxForMac/Foundation/GTMNSDictionary+URLArguments.h
+lrwxr-xr-x   1 nano  staff   66 Mar 10 13:32 GTMNSString+URLArguments.h -> ../../../GoogleToolboxForMac/Foundation/GTMNSString+URLArguments.h
+
+./ios/Pods/Headers/Public/firebase_auth:
+total 0
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:32 .
+drwxr-xr-x  15 nano  staff  480 Mar 10 13:32 ..
+lrwxr-xr-x   1 nano  staff   79 Mar 10 13:32 FirebaseAuthPlugin.h -> ../../../.symlinks/plugins/firebase_auth-0.5.0/ios/Classes/FirebaseAuthPlugin.h
+
+./ios/Pods/Headers/Public/google_sign_in:
+total 0
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:32 .
+drwxr-xr-x  15 nano  staff  480 Mar 10 13:32 ..
+lrwxr-xr-x   1 nano  staff   80 Mar 10 13:32 GoogleSignInPlugin.h -> ../../../.symlinks/plugins/google_sign_in-3.0.0/ios/Classes/GoogleSignInPlugin.h
+
+./ios/Pods/Headers/Public/nanopb:
+total 0
+drwxr-xr-x   6 nano  staff  192 Mar 10 13:32 .
+drwxr-xr-x  15 nano  staff  480 Mar 10 13:32 ..
+lrwxr-xr-x   1 nano  staff   20 Mar 10 13:32 pb.h -> ../../../nanopb/pb.h
+lrwxr-xr-x   1 nano  staff   27 Mar 10 13:32 pb_common.h -> ../../../nanopb/pb_common.h
+lrwxr-xr-x   1 nano  staff   27 Mar 10 13:32 pb_decode.h -> ../../../nanopb/pb_decode.h
+lrwxr-xr-x   1 nano  staff   27 Mar 10 13:32 pb_encode.h -> ../../../nanopb/pb_encode.h
+
+./ios/Pods/Local Podspecs:
+total 24
+drwxr-xr-x   5 nano  staff  160 Mar 10 11:35 .
+drwxr-xr-x  18 nano  staff  576 Mar 10 13:34 ..
+-rw-r--r--   1 nano  staff  561 Mar 10 13:32 Flutter.podspec.json
+-rw-r--r--   1 nano  staff  777 Mar 10 13:32 firebase_auth.podspec.json
+-rw-r--r--   1 nano  staff  822 Mar 10 13:32 google_sign_in.podspec.json
+
+./ios/Pods/Pods.xcodeproj:
+total 264
+drwxr-xr-x@  4 nano  staff    128 Mar 10 11:35 .
+	com.apple.FinderInfo	   32 
+	com.apple.lastuseddate#PS	   16 
+drwxr-xr-x  18 nano  staff    576 Mar 10 13:34 ..
+-rw-r--r--   1 nano  staff  89528 Mar 10 13:32 project.pbxproj
+drwxr-xr-x   3 nano  staff     96 Mar 10 11:35 xcuserdata
+
+./ios/Pods/Pods.xcodeproj/xcuserdata:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:35 .
+drwxr-xr-x@ 4 nano  staff  128 Mar 10 11:35 ..
+	com.apple.FinderInfo	 32 
+	com.apple.lastuseddate#PS	 16 
+drwxr-xr-x  3 nano  staff   96 Mar 10 13:32 nano.xcuserdatad
+
+./ios/Pods/Pods.xcodeproj/xcuserdata/nano.xcuserdatad:
+total 0
+drwxr-xr-x   3 nano  staff   96 Mar 10 13:32 .
+drwxr-xr-x   3 nano  staff   96 Mar 10 11:35 ..
+drwxr-xr-x  10 nano  staff  320 Mar 10 13:32 xcschemes
+
+./ios/Pods/Pods.xcodeproj/xcuserdata/nano.xcuserdatad/xcschemes:
+total 64
+drwxr-xr-x  10 nano  staff   320 Mar 10 13:32 .
+drwxr-xr-x   3 nano  staff    96 Mar 10 13:32 ..
+-rw-r--r--   1 nano  staff  2091 Mar 10 13:32 GTMOAuth2.xcscheme
+-rw-r--r--   1 nano  staff  2107 Mar 10 13:32 GTMSessionFetcher.xcscheme
+-rw-r--r--   1 nano  staff  2111 Mar 10 13:32 GoogleToolboxForMac.xcscheme
+-rw-r--r--   1 nano  staff  2095 Mar 10 13:32 Pods-Runner.xcscheme
+-rw-r--r--   1 nano  staff  2099 Mar 10 13:32 firebase_auth.xcscheme
+-rw-r--r--   1 nano  staff  2101 Mar 10 13:32 google_sign_in.xcscheme
+-rw-r--r--   1 nano  staff  2085 Mar 10 13:32 nanopb.xcscheme
+-rw-r--r--   1 nano  staff   905 Mar 10 13:32 xcschememanagement.plist
+
+./ios/Pods/Target Support Files:
+total 0
+drwxr-xr-x   9 nano  staff  288 Mar 10 13:32 .
+drwxr-xr-x  18 nano  staff  576 Mar 10 13:34 ..
+drwxr-xr-x   5 nano  staff  160 Mar 10 13:34 GTMOAuth2
+drwxr-xr-x   5 nano  staff  160 Mar 10 13:34 GTMSessionFetcher
+drwxr-xr-x   5 nano  staff  160 Mar 10 13:34 GoogleToolboxForMac
+drwxr-xr-x   9 nano  staff  288 Mar 10 13:34 Pods-Runner
+drwxr-xr-x   5 nano  staff  160 Mar 10 13:34 firebase_auth
+drwxr-xr-x   5 nano  staff  160 Mar 10 13:34 google_sign_in
+drwxr-xr-x   5 nano  staff  160 Mar 10 13:34 nanopb
+
+./ios/Pods/Target Support Files/GTMOAuth2:
+total 24
+drwxr-xr-x  5 nano  staff   160 Mar 10 13:34 .
+drwxr-xr-x  9 nano  staff   288 Mar 10 13:32 ..
+-rw-r--r--  1 nano  staff   122 Mar 10 13:32 GTMOAuth2-dummy.m
+-rw-r--r--  1 nano  staff   195 Mar 10 13:32 GTMOAuth2-prefix.pch
+-rw-r--r--  1 nano  staff  1251 Mar 10 13:32 GTMOAuth2.xcconfig
+
+./ios/Pods/Target Support Files/GTMSessionFetcher:
+total 24
+drwxr-xr-x  5 nano  staff   160 Mar 10 13:34 .
+drwxr-xr-x  9 nano  staff   288 Mar 10 13:32 ..
+-rw-r--r--  1 nano  staff   138 Mar 10 13:32 GTMSessionFetcher-dummy.m
+-rw-r--r--  1 nano  staff   195 Mar 10 13:32 GTMSessionFetcher-prefix.pch
+-rw-r--r--  1 nano  staff  1156 Mar 10 13:32 GTMSessionFetcher.xcconfig
+
+./ios/Pods/Target Support Files/GoogleToolboxForMac:
+total 24
+drwxr-xr-x  5 nano  staff   160 Mar 10 13:34 .
+drwxr-xr-x  9 nano  staff   288 Mar 10 13:32 ..
+-rw-r--r--  1 nano  staff   142 Mar 10 13:32 GoogleToolboxForMac-dummy.m
+-rw-r--r--  1 nano  staff   195 Mar 10 13:32 GoogleToolboxForMac-prefix.pch
+-rw-r--r--  1 nano  staff  1146 Mar 10 13:32 GoogleToolboxForMac.xcconfig
+
+./ios/Pods/Target Support Files/Pods-Runner:
+total 216
+drwxr-xr-x  9 nano  staff    288 Mar 10 13:34 .
+drwxr-xr-x  9 nano  staff    288 Mar 10 13:32 ..
+-rw-r--r--  1 nano  staff  40130 Mar 10 13:32 Pods-Runner-acknowledgements.markdown
+-rw-r--r--  1 nano  staff  43375 Mar 10 13:32 Pods-Runner-acknowledgements.plist
+-rw-r--r--  1 nano  staff    126 Mar 10 13:32 Pods-Runner-dummy.m
+-rwxr-xr-x  1 nano  staff   3717 Mar 10 13:32 Pods-Runner-frameworks.sh
+-rwxr-xr-x  1 nano  staff   5423 Mar 10 13:32 Pods-Runner-resources.sh
+-rw-r--r--  1 nano  staff   2876 Mar 10 13:32 Pods-Runner.debug.xcconfig
+-rw-r--r--  1 nano  staff   2876 Mar 10 13:32 Pods-Runner.release.xcconfig
+
+./ios/Pods/Target Support Files/firebase_auth:
+total 24
+drwxr-xr-x  5 nano  staff   160 Mar 10 13:34 .
+drwxr-xr-x  9 nano  staff   288 Mar 10 13:32 ..
+-rw-r--r--  1 nano  staff   130 Mar 10 13:32 firebase_auth-dummy.m
+-rw-r--r--  1 nano  staff   195 Mar 10 13:32 firebase_auth-prefix.pch
+-rw-r--r--  1 nano  staff  1420 Mar 10 13:32 firebase_auth.xcconfig
+
+./ios/Pods/Target Support Files/google_sign_in:
+total 24
+drwxr-xr-x  5 nano  staff   160 Mar 10 13:34 .
+drwxr-xr-x  9 nano  staff   288 Mar 10 13:32 ..
+-rw-r--r--  1 nano  staff   132 Mar 10 13:32 google_sign_in-dummy.m
+-rw-r--r--  1 nano  staff   195 Mar 10 13:32 google_sign_in-prefix.pch
+-rw-r--r--  1 nano  staff  1426 Mar 10 13:32 google_sign_in.xcconfig
+
+./ios/Pods/Target Support Files/nanopb:
+total 24
+drwxr-xr-x  5 nano  staff   160 Mar 10 13:34 .
+drwxr-xr-x  9 nano  staff   288 Mar 10 13:32 ..
+-rw-r--r--  1 nano  staff   116 Mar 10 13:32 nanopb-dummy.m
+-rw-r--r--  1 nano  staff   195 Mar 10 13:32 nanopb-prefix.pch
+-rw-r--r--  1 nano  staff  1138 Mar 10 13:32 nanopb.xcconfig
+
+./ios/Pods/nanopb:
+total 248
+drwxr-xr-x  11 nano  staff    352 Mar 10 11:35 .
+drwxr-xr-x  18 nano  staff    576 Mar 10 13:34 ..
+-rw-r--r--   1 nano  staff    898 Mar 10 11:35 LICENSE.txt
+-rw-r--r--   1 nano  staff   2977 Mar 10 11:35 README.md
+-r--r--r--   1 nano  staff  22631 Mar 10 11:35 pb.h
+-r--r--r--   1 nano  staff   2993 Mar 10 11:35 pb_common.c
+-r--r--r--   1 nano  staff   1421 Mar 10 11:35 pb_common.h
+-r--r--r--   1 nano  staff  43293 Mar 10 11:35 pb_decode.c
+-r--r--r--   1 nano  staff   5667 Mar 10 11:35 pb_decode.h
+-r--r--r--   1 nano  staff  24020 Mar 10 11:35 pb_encode.c
+-r--r--r--   1 nano  staff   5727 Mar 10 11:35 pb_encode.h
+
+./ios/Runner:
+total 56
+drwxr-xr-x  11 nano  staff   352 Mar 10 13:31 .
+drwxr-xr-x  13 nano  staff   416 Mar 10 12:14 ..
+-rw-r--r--   1 nano  staff   109 Mar 10 11:29 AppDelegate.h
+-rw-r--r--   1 nano  staff   432 Mar 10 11:29 AppDelegate.m
+drwxr-xr-x   4 nano  staff   128 Mar 10 11:29 Assets.xcassets
+drwxr-xr-x   4 nano  staff   128 Mar 10 11:29 Base.lproj
+-rw-r--r--   1 nano  staff   310 Mar 10 13:34 GeneratedPluginRegistrant.h
+-rw-r--r--   1 nano  staff   503 Mar 10 13:34 GeneratedPluginRegistrant.m
+-rw-r--r--   1 nano  staff  1392 Mar 10 12:19 GoogleService-Info.plist
+-rw-r--r--   1 nano  staff  2096 Mar 10 13:31 Info.plist
+-rw-r--r--   1 nano  staff   236 Mar 10 11:29 main.m
+
+./ios/Runner/Assets.xcassets:
+total 0
+drwxr-xr-x   4 nano  staff  128 Mar 10 11:29 .
+drwxr-xr-x  11 nano  staff  352 Mar 10 13:31 ..
+drwxr-xr-x  18 nano  staff  576 Mar 10 11:29 AppIcon.appiconset
+drwxr-xr-x   7 nano  staff  224 Mar 10 11:29 LaunchImage.imageset
+
+./ios/Runner/Assets.xcassets/AppIcon.appiconset:
+total 144
+drwxr-xr-x  18 nano  staff    576 Mar 10 11:29 .
+drwxr-xr-x   4 nano  staff    128 Mar 10 11:29 ..
+-rw-r--r--   1 nano  staff   2641 Mar 10 11:29 Contents.json
+-rw-r--r--   1 nano  staff  11112 Mar 10 11:29 Icon-App-1024x1024@1x.png
+-rw-r--r--   1 nano  staff    564 Mar 10 11:29 Icon-App-20x20@1x.png
+-rw-r--r--   1 nano  staff   1283 Mar 10 11:29 Icon-App-20x20@2x.png
+-rw-r--r--   1 nano  staff   1588 Mar 10 11:29 Icon-App-20x20@3x.png
+-rw-r--r--   1 nano  staff   1025 Mar 10 11:29 Icon-App-29x29@1x.png
+-rw-r--r--   1 nano  staff   1716 Mar 10 11:29 Icon-App-29x29@2x.png
+-rw-r--r--   1 nano  staff   1920 Mar 10 11:29 Icon-App-29x29@3x.png
+-rw-r--r--   1 nano  staff   1283 Mar 10 11:29 Icon-App-40x40@1x.png
+-rw-r--r--   1 nano  staff   1895 Mar 10 11:29 Icon-App-40x40@2x.png
+-rw-r--r--   1 nano  staff   2665 Mar 10 11:29 Icon-App-40x40@3x.png
+-rw-r--r--   1 nano  staff   2665 Mar 10 11:29 Icon-App-60x60@2x.png
+-rw-r--r--   1 nano  staff   3831 Mar 10 11:29 Icon-App-60x60@3x.png
+-rw-r--r--   1 nano  staff   1888 Mar 10 11:29 Icon-App-76x76@1x.png
+-rw-r--r--   1 nano  staff   3294 Mar 10 11:29 Icon-App-76x76@2x.png
+-rw-r--r--   1 nano  staff   3612 Mar 10 11:29 Icon-App-83.5x83.5@2x.png
+
+./ios/Runner/Assets.xcassets/LaunchImage.imageset:
+total 40
+drwxr-xr-x  7 nano  staff  224 Mar 10 11:29 .
+drwxr-xr-x  4 nano  staff  128 Mar 10 11:29 ..
+-rw-r--r--  1 nano  staff  414 Mar 10 11:29 Contents.json
+-rw-r--r--  1 nano  staff   68 Mar 10 11:29 LaunchImage.png
+-rw-r--r--  1 nano  staff   68 Mar 10 11:29 LaunchImage@2x.png
+-rw-r--r--  1 nano  staff   68 Mar 10 11:29 LaunchImage@3x.png
+-rw-r--r--  1 nano  staff  340 Mar 10 11:29 README.md
+
+./ios/Runner/Base.lproj:
+total 16
+drwxr-xr-x   4 nano  staff   128 Mar 10 11:29 .
+drwxr-xr-x  11 nano  staff   352 Mar 10 13:31 ..
+-rw-r--r--   1 nano  staff  2414 Mar 10 11:29 LaunchScreen.storyboard
+-rw-r--r--   1 nano  staff  1631 Mar 10 11:29 Main.storyboard
+
+./ios/Runner.xcodeproj:
+total 48
+drwxr-xr-x@  5 nano  staff    160 Mar 10 12:18 .
+	com.apple.FinderInfo	   32 
+	com.apple.lastuseddate#PS	   16 
+drwxr-xr-x  13 nano  staff    416 Mar 10 12:14 ..
+-rw-r--r--   1 nano  staff  21601 Mar 10 13:32 project.pbxproj
+drwxr-xr-x@  4 nano  staff    128 Mar 10 12:13 project.xcworkspace
+	com.apple.lastuseddate#PS	   16 
+drwxr-xr-x   3 nano  staff     96 Mar 10 11:29 xcshareddata
+
+./ios/Runner.xcodeproj/project.xcworkspace:
+total 8
+drwxr-xr-x@ 4 nano  staff  128 Mar 10 12:13 .
+	com.apple.lastuseddate#PS	 16 
+drwxr-xr-x@ 5 nano  staff  160 Mar 10 12:18 ..
+	com.apple.FinderInfo	 32 
+	com.apple.lastuseddate#PS	 16 
+-rw-r--r--  1 nano  staff  159 Mar 10 11:29 contents.xcworkspacedata
+drwxr-xr-x  3 nano  staff   96 Mar 10 12:13 xcuserdata
+
+./ios/Runner.xcodeproj/project.xcworkspace/xcuserdata:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 12:13 .
+drwxr-xr-x@ 4 nano  staff  128 Mar 10 12:13 ..
+	com.apple.lastuseddate#PS	 16 
+drwxr-xr-x  4 nano  staff  128 Mar 10 12:15 nano.xcuserdatad
+
+./ios/Runner.xcodeproj/project.xcworkspace/xcuserdata/nano.xcuserdatad:
+total 56
+drwxr-xr-x  4 nano  staff    128 Mar 10 12:15 .
+drwxr-xr-x  3 nano  staff     96 Mar 10 12:13 ..
+-rw-r--r--  1 nano  staff  23604 Mar 10 12:15 UserInterfaceState.xcuserstate
+-rw-r--r--  1 nano  staff    255 Mar 10 12:13 WorkspaceSettings.xcsettings
+
+./ios/Runner.xcodeproj/xcshareddata:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:29 .
+drwxr-xr-x@ 5 nano  staff  160 Mar 10 12:18 ..
+	com.apple.FinderInfo	 32 
+	com.apple.lastuseddate#PS	 16 
+drwxr-xr-x  3 nano  staff   96 Mar 10 11:29 xcschemes
+
+./ios/Runner.xcodeproj/xcshareddata/xcschemes:
+total 8
+drwxr-xr-x  3 nano  staff    96 Mar 10 11:29 .
+drwxr-xr-x  3 nano  staff    96 Mar 10 11:29 ..
+-rw-r--r--  1 nano  staff  3424 Mar 10 11:29 Runner.xcscheme
+
+./ios/Runner.xcworkspace:
+total 8
+drwxr-xr-x@  4 nano  staff  128 Mar 10 12:17 .
+	com.apple.FinderInfo	 32 
+	com.apple.lastuseddate#PS	 16 
+drwxr-xr-x  13 nano  staff  416 Mar 10 12:14 ..
+-rw-r--r--   1 nano  staff  224 Mar 10 11:35 contents.xcworkspacedata
+drwxr-xr-x   3 nano  staff   96 Mar 10 12:17 xcuserdata
+
+./ios/Runner.xcworkspace/xcuserdata:
+total 0
+drwxr-xr-x  3 nano  staff   96 Mar 10 12:17 .
+drwxr-xr-x@ 4 nano  staff  128 Mar 10 12:17 ..
+	com.apple.FinderInfo	 32 
+	com.apple.lastuseddate#PS	 16 
+drwxr-xr-x  3 nano  staff   96 Mar 10 12:18 nano.xcuserdatad
+
+./ios/Runner.xcworkspace/xcuserdata/nano.xcuserdatad:
+total 16
+drwxr-xr-x  3 nano  staff    96 Mar 10 12:18 .
+drwxr-xr-x  3 nano  staff    96 Mar 10 12:17 ..
+-rw-r--r--  1 nano  staff  6902 Mar 10 12:18 UserInterfaceState.xcuserstate
+
+./lib:
+total 16
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:39 .
+drwxr-xr-x  19 nano  staff   608 Mar 10 13:35 ..
+-rw-r--r--   1 nano  staff  5561 Mar 10 11:39 main.dart
+
+./test:
+total 8
+drwxr-xr-x   3 nano  staff    96 Mar 10 11:30 .
+drwxr-xr-x  19 nano  staff   608 Mar 10 13:35 ..
+-rw-r--r--   1 nano  staff  1082 Mar 10 11:29 widget_test.dart

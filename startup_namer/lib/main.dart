@@ -1,3 +1,4 @@
+
 import 'dart:async';
 
 import 'package:flutter/material.dart';
@@ -75,25 +76,26 @@ class RandomWordsState extends State<RandomWords>{
   Widget _buildRow(WordPair pair){
     final alreadySaved = _saved.contains(pair);
 
-    return new ListTile(
-      title: new Text(
-        pair.asPascalCase,
-        style: _biggerFont,
-      ),
-      trailing: new Icon(
-        alreadySaved ? Icons.favorite : Icons.favorite_border,
-        color: alreadySaved ? Colors.red : Colors.grey,
-      ),
-      onTap: (){
-        setState((){
-          if(alreadySaved){
-            print("Hello");
-            _saved.remove(pair);
-          } else {
-            _saved.add(pair);
-          }
-        });
-      },
+    return new SizedBox(
+      child: new Card(
+          color: alreadySaved ? Colors.red : Colors.grey,
+        child: new ListTile(
+          title: new Text(
+            pair.asPascalCase,
+            style: _biggerFont,
+          ),
+          trailing: new Icon(
+            alreadySaved ? Icons.favorite : Icons.favorite_border,
+
+          ),
+          onTap: (){
+            setState((){
+              if(alreadySaved){
+                _saved.remove(pair);
+              } else {
+                _saved.add(pair);
+              }});},
+        ))
     );
   }
 
@@ -101,7 +103,10 @@ class RandomWordsState extends State<RandomWords>{
     return new ListView.builder(
       padding: const EdgeInsets.all(16.0),
       itemBuilder: (context, i){
-        if(i.isOdd) return new Divider();
+        if(i.isOdd) return new Divider(
+          height: 0.0,
+          color: Colors.white,
+        );
         final index = i ~/2;
         if (index >= _suggestions.length){
           _suggestions.addAll(generateWordPairs().take(10));
